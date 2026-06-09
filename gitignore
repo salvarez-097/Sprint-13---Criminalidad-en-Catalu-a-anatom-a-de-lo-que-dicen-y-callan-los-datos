@@ -1,0 +1,35 @@
+# ─── Credenciales y configuración local───
+.mcp.json
+.env
+*.env
+config.ini
+secrets.*
+# cualquier archivo con credenciales de MySQL
+
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ─── Cache interno del proyecto ───
+analisis/cache/
+sql/__pycache__/
+
+# ─── Datos pesados (documentados cómo obtenerlos en el README) ───
+# data/raw/
+# data/clean/fact_incidentes_gub.csv
+# data/clean/fact_delitos_mossos.csv
+
+# ─── Sistema operativo ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Editores ───
+.vscode/
+.idea/
+*.swp

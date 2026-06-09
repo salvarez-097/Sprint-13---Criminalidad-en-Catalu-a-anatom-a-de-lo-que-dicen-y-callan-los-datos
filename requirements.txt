@@ -1,0 +1,44 @@
+# =============================================================================
+#  Criminalistica Cataluna - dependencias Python del pipeline completo
+#  (ETL notebooks 01-08, BD/carga, EDA nb08, estadistica nb09, ML nb10)
+#
+#  Instalacion:   pip install -r requirements.txt
+#  Probado con:   Python 3.13.5 (Windows). Versiones tested entre comentarios.
+#  Los pines son ">=" para que la instalacion no falle si hay versiones mas
+#  nuevas; son las versiones con las que se desarrollo el proyecto.
+# =============================================================================
+
+# --- Nucleo: datos ---
+pandas>=2.2            # tested: pandas 3.0.2 (ETL) / 2.x (analisis)
+numpy>=1.26
+
+# --- Base de datos MySQL (carga + lectura desde notebooks) ---
+SQLAlchemy>=2.0        # tested: 2.0.50
+PyMySQL>=1.1
+
+# --- Jupyter (ejecutar los notebooks) ---
+jupyterlab>=4.5        # tested: 4.5.8
+ipykernel>=6.29
+ipywidgets>=8.1
+
+# --- Estadistica y ML (nb09, nb10) ---
+scipy>=1.11
+statsmodels>=0.14      # tested: 0.14.6
+scikit-learn>=1.4      # tested: 1.9.0
+pymannkendall>=1.4     # Mann-Kendall (tendencias)
+xgboost>=2.0           # modelo XGBoost (nb10)
+prophet>=1.1           # serie temporal total BCN (nb10)
+
+# --- Geoespacial (geometrias barrio/ABP, centroides, afluencia OSM) ---
+geopandas>=1.1         # tested: 1.1.3
+shapely>=2.0
+pyproj>=3.6
+osmnx>=2.1             # descarga POIs OSM (nb09 S0)
+
+# --- Visualizacion ---
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# --- Red (Overpass API; opcional, solo si se regenera la afluencia OSM) ---
+requests>=2.31
