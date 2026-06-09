@@ -1,0 +1,76 @@
+id_demografia,sexo,grup_edat,nacionalitat,tipus_nacionalitat,fuente
+1,Masculino,14-17 años,,,portal_ministerio
+2,Femenino,14-17 años,,,portal_ministerio
+3,Ambos sexos,14-17 años,,,portal_ministerio
+4,Masculino,18-30 años,,,portal_ministerio
+5,Femenino,18-30 años,,,portal_ministerio
+6,Ambos sexos,18-30 años,,,portal_ministerio
+7,Masculino,31-40 años,,,portal_ministerio
+8,Femenino,31-40 años,,,portal_ministerio
+9,Ambos sexos,31-40 años,,,portal_ministerio
+10,Masculino,41-64 años,,,portal_ministerio
+11,Femenino,41-64 años,,,portal_ministerio
+12,Ambos sexos,41-64 años,,,portal_ministerio
+13,Masculino,Más 64 años,,,portal_ministerio
+14,Femenino,Más 64 años,,,portal_ministerio
+15,Ambos sexos,Más 64 años,,,portal_ministerio
+16,Masculino,TOTAL edad,,,portal_ministerio
+17,Femenino,TOTAL edad,,,portal_ministerio
+18,Ambos sexos,TOTAL edad,,,portal_ministerio
+19,Total,Total,,,ine_condenados
+20,Total,De 18 a 20 años,,,ine_condenados
+21,Total,De 21 a 25 años,,,ine_condenados
+22,Total,De 26 a 30 años,,,ine_condenados
+23,Total,De 31 a 35 años,,,ine_condenados
+24,Total,De 36 a 40 años,,,ine_condenados
+25,Total,De 41 a 50 años,,,ine_condenados
+26,Total,De 51 a 60 años,,,ine_condenados
+27,Total,De 61 a 70 años,,,ine_condenados
+28,Total,71 y más años,,,ine_condenados
+29,Hombres,Total,,,ine_condenados
+30,Hombres,De 18 a 20 años,,,ine_condenados
+31,Hombres,De 21 a 25 años,,,ine_condenados
+32,Hombres,De 26 a 30 años,,,ine_condenados
+33,Hombres,De 31 a 35 años,,,ine_condenados
+34,Hombres,De 36 a 40 años,,,ine_condenados
+35,Hombres,De 41 a 50 años,,,ine_condenados
+36,Hombres,De 51 a 60 años,,,ine_condenados
+37,Hombres,De 61 a 70 años,,,ine_condenados
+38,Hombres,71 y más años,,,ine_condenados
+39,Mujeres,Total,,,ine_condenados
+40,Mujeres,De 18 a 20 años,,,ine_condenados
+41,Mujeres,De 21 a 25 años,,,ine_condenados
+42,Mujeres,De 26 a 30 años,,,ine_condenados
+43,Mujeres,De 31 a 35 años,,,ine_condenados
+44,Mujeres,De 36 a 40 años,,,ine_condenados
+45,Mujeres,De 41 a 50 años,,,ine_condenados
+46,Mujeres,De 51 a 60 años,,,ine_condenados
+47,Mujeres,De 61 a 70 años,,,ine_condenados
+48,Mujeres,71 y más años,,,ine_condenados
+49,Total,,Total,,ine_condenados
+50,Total,,Española,,ine_condenados
+51,Total,,Extranjera,,ine_condenados
+52,Hombres,,Total,,ine_condenados
+53,Hombres,,Española,,ine_condenados
+54,Hombres,,Extranjera,,ine_condenados
+55,Mujeres,,Total,,ine_condenados
+56,Mujeres,,Española,,ine_condenados
+57,Mujeres,,Extranjera,,ine_condenados
+58,,Edat_18_20,,,idescat
+59,,Edat_21_25,,,idescat
+60,,Edat_26_40,,,idescat
+61,,Edat_41_60,,,idescat
+62,,Edat_61_mes,,,idescat
+63,,,Nacionalidad española,,idescat
+64,,,Nacionalidad extranjera,,idescat
+65,,,Unión Europea,,idescat
+66,,,Resto de Europa,,idescat
+67,,,Magreb,,idescat
+68,,,África,,idescat
+69,,,América Central y del Sur,,idescat
+70,,,América del Norte,,idescat
+71,,,Próximo Oriente,,idescat
+72,,,Asia,,idescat
+73,,,Oceanía,,idescat
+74,,,Apátrida,,idescat
+75,,,Total,,idescat

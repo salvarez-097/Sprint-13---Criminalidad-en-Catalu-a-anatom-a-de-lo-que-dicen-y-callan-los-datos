@@ -1,0 +1,357 @@
+id_tipo_delito,codigo,descripcio,titol_cp,categoria,nivel_tipologia,fuente
+1,,De la usurpació de l'estat civil,De les falsedats,De les falsedats,detalle,mossos
+2,,Falsedats documentals,De les falsedats,De les falsedats,detalle,mossos
+3,,Danys,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+4,,Estafes,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+5,,"Acusació, denúncia falsa i simulació de delictes",Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+6,,Trencament de condemna,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+7,,Calúmnia,Delictes contra l’honor,Delictes contra l’honor,detalle,mossos
+8,,Injúria,Delictes contra l’honor,Delictes contra l’honor,detalle,mossos
+9,,Descobriment i revelació de secrets,"Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili","Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili",detalle,mossos
+10,,Amenaces,Delictes contra la llibertat,Delictes contra la llibertat,detalle,mossos
+11,,Assetjament sexual,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+12,,Exhibicionisme i provocació sexual,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+13,,Relatius a la prostitució,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+14,,Contra la salut pública,Dels delictes contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,detalle,mossos
+15,,Faltes contra el patrimoni,Faltes contra el patrimoni,Faltes contra el patrimoni,detalle,mossos
+16,,Faltes contra les persones,Faltes contra les persones,Faltes contra les persones,detalle,mossos
+17,,Lesions,De les lesions,De les lesions,detalle,mossos
+18,,Tracte degradant / vexatori,De les tortures i altres delictes contra la integritat moral,De les tortures i altres delictes contra la integritat moral,detalle,mossos
+19,,Apropiació indeguda,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+20,,Furt,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+21,,Robatori amb força,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+22,,Robatori amb força interior vehicle,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+23,,Robatori amb violència i/o intimidació,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+24,,Robatori i furt d'us de vehicle,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+25,,Realització arbitrària del propi dret,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+26,,Altres delictes contra l'ordre públic,Delictes contra l'ordre públic,Delictes contra l'ordre públic,detalle,mossos
+27,,Entrada a domicili aliè,"Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili","Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili",detalle,mossos
+28,,Detenció il·legal,Delictes contra la llibertat,Delictes contra la llibertat,detalle,mossos
+29,,Agressions sexuals i Abusos sexuals,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+30,,Conduir sense permís,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+31,,Conduir sota els efectes d'alcohol i drogues,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+32,,Negativa a sotmetre's a les proves,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+33,,Contra els drets i deures familiars,Delictes contra les relacions familiars,Delictes contra les relacions familiars,detalle,mossos
+34,,Faltes contra els interessos generals,Faltes contra els interessos generals,Faltes contra els interessos generals,detalle,mossos
+35,,Faltes contra l'ordre públic,Faltes contra l'ordre públic,Faltes contra l'ordre públic,detalle,mossos
+36,,Obstrucció a la justícia i deslleialtat professional,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+37,,Desobediència i denegació d'auxili,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+38,,Desordres públics,Delictes contra l'ordre públic,Delictes contra l'ordre públic,detalle,mossos
+39,,Conducció temerària,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+40,,Originar un greu risc per la circulació,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+41,,Homicidi per imprudència,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+42,,Usurpació de funcions públiques i intrusisme,De les falsedats,De les falsedats,detalle,mossos
+43,,Usurpació,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+44,,Coaccions,Delictes contra la llibertat,Delictes contra la llibertat,detalle,mossos
+45,,Incendi,Dels delictes contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,detalle,mossos
+46,,Falsificació de moneda i efectes timbrats,De les falsedats,De les falsedats,detalle,mossos
+47,,Defraudacions de fluid elèctric i anàlogues,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+48,,Ocupació immobles,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+49,,Receptació i altres conductes afins,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+50,,Lesions al fetus,De les lesions al fetus,De les lesions al fetus,detalle,mossos
+51,,Contra els drets de ciutadans estrangers,Delictes contra els drets dels ciutadans estrangers,Delictes contra els drets dels ciutadans estrangers,detalle,mossos
+52,,Malversació,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+53,,Contra els recursos naturals i el medi ambient,"Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient","Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient",detalle,mossos
+54,,Homicidi Temptativa,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+55,,Velocitat penalment punible,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+56,,Contra l'ordenació del territori,"Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient","Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient",detalle,mossos
+57,,Organitzacions i grups criminals,Delictes contra l'ordre públic,Delictes contra l'ordre públic,detalle,mossos
+58,,Hisenda pública i seguretat social,Dels delictes contra la hisenda pública i contra la Seguretat Social,Dels delictes contra la hisenda pública i contra la Seguretat Social,detalle,mossos
+59,,Homicidi Consumat,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+60,,Extorsió,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+61,,Societaris,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+62,,Assassinat Temptativa,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+63,,"Contra la llibertat de consciència, religió i respecte als difunts",Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+64,,Omissió del deure de socors,De l’omissió del deure d’auxili,De l’omissió del deure d’auxili,detalle,mossos
+65,,Propietat industrial,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+66,,Contra els drets dels treballadors,Dels delictes contra els drets dels treballadors,Dels delictes contra els drets dels treballadors,detalle,mossos
+67,,Avortament,De l’avortament,De l’avortament,detalle,mossos
+68,,Tràfic d'éssers humans,Del tràfic d’éssers humans,Del tràfic d’éssers humans,detalle,mossos
+69,,Blanqueig de capitals,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+70,,"Protecció de la flora, fauna i animals domèstics","Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient","Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient",detalle,mossos
+71,,Segrest,Delictes contra la llibertat,Delictes contra la llibertat,detalle,mossos
+72,,Encobriment,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+73,,Associació il·lícita,Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+74,,Defraudacions,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+75,,Propietat intel·lectual,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+76,,Contra la comunitat internacional,Delictes contra la comunitat internacional,Delictes contra la comunitat internacional,detalle,mossos
+77,,Contra la seguretat viària,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+78,,Mercat i consumidors,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+79,,Assassinat Consumat,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+80,,Contra exercici drets fonamentals i llibertats públiques,Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+81,,Contra el patrimoni històric,"Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient","Dels delictes relatius a l’ordenació del territori i l’urbanisme, la protecció del patrimoni històric i el medi ambient",detalle,mossos
+82,,Prevaricació de funcionaris públics,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+83,,Tràfic d'influències,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+84,,"Reunió, manifestació il·lícita",Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+85,,Insolvències punibles,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+86,,Risc catastròfic,Dels delictes contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,detalle,mossos
+87,,Fals testimoni,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+88,,Contra el patrimoni,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+89,,Infidelitat custòdia documents i violació secrets,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+90,,Infidelitat en la custòdia de documents i violació de secrets,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+91,,Omissió dels deures d'impedir delictes,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+92,,Fraus i exaccions il·legals,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+93,,Suborn,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+94,,Administració deslleial,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+95,,Prevaricació,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+96,,Abandonament lloc accident,Delictes contra la seguretat viària,Delictes contra la seguretat viària,detalle,mossos
+97,,Tortures,De les tortures i altres delictes contra la integritat moral,De les tortures i altres delictes contra la integritat moral,detalle,mossos
+98,,Contra les institucions de l'Estat i divisió de poders,Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+99,,Sostracció de cosa pròpia d'utilitat social,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+100,,Frustració d'execució,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+101,,Abandó de destí i omissió deure perseguir delictes,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+102,,Resta delictes sexuals,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+103,,Entrada a vivenda aliena,"Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili","Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili",detalle,mossos
+104,,Inducció i cooperació al suïcidi,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+105,,Contra la llibertat,Delictes contra la llibertat,Delictes contra la llibertat,detalle,mossos
+106,,Contra els animals,Delictes contra els animals,Delictes contra els animals,detalle,mossos
+107,,Alteració dels preus,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+108,,"Contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili","Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili","Delictes contra la intimitat, el dret a la pròpia imatge i la inviolabilitat del domicili",detalle,mossos
+109,,Negociacions i activitats prohibides a funcionaris,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+110,,Corrupció als negocis,Delictes contra el patrimoni i contra l’ordre socioeconòmic,Delictes contra el patrimoni i contra l’ordre socioeconòmic,detalle,mossos
+111,,Violació de secrets,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+112,,Eutanàsia activa,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+113,,Contra l'administració de justícia,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+114,,Tortures i delictes contra la integritat moral,De les tortures i altres delictes contra la integritat moral,De les tortures i altres delictes contra la integritat moral,detalle,mossos
+115,,Contra la seguretat colectiva,Dels delictes contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,detalle,mossos
+116,,Contra la llibertat sexual,Delictes contra la llibertat i la indemnitat sexuals,Delictes contra la llibertat i la indemnitat sexuals,detalle,mossos
+117,,"Traïció, contra la pau, independència de l'estat i defensa nacional",Dels delictes de traïció i contra la pau o la independència de l'Estat i relatius a la defensa nacional,Dels delictes de traïció i contra la pau o la independència de l'Estat i relatius a la defensa nacional,detalle,mossos
+118,,Contra l'administració justícia cort penal internacional,Delictes contra l'Administració de justícia,Delictes contra l'Administració de justícia,detalle,mossos
+119,,Contra l'administració pública,Delictes contra l'Administració pública,Delictes contra l'Administració pública,detalle,mossos
+120,,suicidi menor/disc per les tic,De l’homicidi i les seves formes,De l’homicidi i les seves formes,detalle,mossos
+121,,Falsedats,De les falsedats,De les falsedats,detalle,mossos
+122,,Contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,Dels delictes contra la seguretat col·lectiva,detalle,mossos
+123,,Contra les institucions de l'estat i divisió de poders,Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+124,,Dels funcionaris públics contra les garanties constitucionals,Delictes contra la Constitució,Delictes contra la Constitució,detalle,mossos
+125,210,ACCIDENTS DE TRÀNSIT SENSE FERITS,,,detalle,gub
+126,222,INFRACCIONS EN MOVIMENT,,,detalle,gub
+127,410,ACTIVITATS MOLESTES EN ESPAIS PÚBLICS,,,detalle,gub
+128,420,INCIDÈNCIES DE LOCALS,,,detalle,gub
+129,400,CONVIVÈNCIA VEINAL,,,detalle,gub
+130,220,INFRACCIONS EN GUALS I RESERVES,,,detalle,gub
+131,230,TRASLLATS DE VEHICLES SENSE INFRACCIÓ,,,detalle,gub
+132,510,BARALLES,,,detalle,gub
+133,610,ACTES CONTRA LA PROPIETAT PRIVADA,,,detalle,gub
+134,204,SENYALS NO AUTOMATITZADES,,,detalle,gub
+135,411,VENDA AMBULANT,,,detalle,gub
+136,221,INFRACCIONS PER ESTACIONAMENTS,,,detalle,gub
+137,211,ACCIDENTS DE TRÀNSIT AMB FERITS,,,detalle,gub
+138,300,ASSISTÈNCIA A PERSONES EN EDIFICI,,,detalle,gub
+139,240,CONTROLS DE TRÀNSIT,,,detalle,gub
+140,200,INCIDÈNCIES AMB AFECTACIÓ DE VIA,,,detalle,gub
+141,301,ASSISTÈNCIA A PERSONES EN ESPAIS PÚBLICS,,,detalle,gub
+142,223,INFRACCIONS EN MOVIMENT (VEHICLES),,,detalle,gub
+143,242,IMMOBILITZACIONS /DESIMMOBILITZACIONS,,,detalle,gub
+144,470,"ALTRES INTERVENCIONS DE P, ADMINISTRATIVA",,,detalle,gub
+145,203,SENYALS AUTOMATITZADES,,,detalle,gub
+146,302,"ASSISTÈNCIA A CONDUCTORS EN V, P,",,,detalle,gub
+147,201,INCIDÈNCIES AMB PERILL PEL TRÀNSIT,,,detalle,gub
+148,0,INCENDIS,,,detalle,gub
+149,440,ANIMALS DE COMPANYIA,,,detalle,gub
+150,650,VIGILÀNCIA POLICIAL,,,detalle,gub
+151,700,ACTIVITAT AMB PRESOS,,,detalle,gub
+152,21M,ACCIDENT PROCEDENT PASSAREL·LA CME,,,detalle,gub
+153,680,"ALTRES ACTUACIONS DE S, C,",,,detalle,gub
+154,202,RESTRICCIONS TEMPORALS DE TRÀNSIT,,,detalle,gub
+155,511,VANDALISME,,,detalle,gub
+156,100,ÀMBIT DE PROTECCIÓ DEL MENOR,,,detalle,gub
+157,303,ASSISTÈNCIA A MALALTS MENTALS,,,detalle,gub
+158,62,AVARIES DE SERVEIS MUNICIPALS,,,detalle,gub
+159,660,VIOLÈNCIA DOMÈSTICA,,,detalle,gub
+160,442,ALTRES INCIDÈNCIES AMB ANIMALS,,,detalle,gub
+161,61,AVARIES DE SERVEIS PÚBLICS,,,detalle,gub
+162,241,SUPORTS,,,detalle,gub
+163,70,SINISTRES EN EDIFICIS,,,detalle,gub
+164,800,FOGUERES / BARBACOES,,,detalle,gub
+165,422,INSPECCIONS / CONTROLS EN LOCALS,,,detalle,gub
+166,830,ALTRES ACTUACIONS EN MEDI AMBIENT,,,detalle,gub
+167,620,ESTUPEFAENTS / PSICOTROPICS,,,detalle,gub
+168,480,ALARMES D'INCENDI / ROBATORI,,,detalle,gub
+169,600,COL·LBORACIÓ AMB AUTORITAT JUDICIAL / POLICIAL,,,detalle,gub
+170,421,INFRACCIONS EN LOCALS,,,detalle,gub
+171,670,AGRESSIONS,,,detalle,gub
+172,441,ANIMALS / INSECTES PERILLOSOS,,,detalle,gub
+173,305,COL·LABORACIÓ AMB ALTRES SERVEIS,,,detalle,gub
+174,640,INFRACCIONS D'ESTRANGERS,,,detalle,gub
+175,20,PLUJA TORRENCIAL,,,detalle,gub
+176,513,CONFLICTES EN LOCALS,,,detalle,gub
+177,530,DELICTES CONTRA L'ORDRE PÚBLIC,,,detalle,gub
+178,500,MANIFESTACIONS / CONCENTRACIONS,,,detalle,gub
+179,40,TRANSPORT PÚBLIC,,,detalle,gub
+180,10,EXPLOSIONS,,,detalle,gub
+181,21,VENTS FORTS,,,detalle,gub
+182,451,OCUPACIONS D'ESPAIS PÚBLICS,,,detalle,gub
+183,630,CONTRA LA LLIBERTAT SEXUAL,,,detalle,gub
+184,30,MATÈRIES PERILLOSES,,,detalle,gub
+185,401,MOLESTIES PER GENERADORS,,,detalle,gub
+186,611,ACTES CONTRA LA PROPIETAT PÚBLICA,,,detalle,gub
+187,810,ABOCAMENT DE RESIDUS,,,detalle,gub
+188,430,ESPECTACLES EN ESPAIS PÚBLICS,,,detalle,gub
+189,21B,ACCIDENT REBUT PEL 080 (Recodificar),,,detalle,gub
+190,450,OBRES / TREBALLS EN ESPAIS PÚBLICS,,,detalle,gub
+191,50,ATEMPTATS,,,detalle,gub
+192,22,NEU I GEL,,,detalle,gub
+193,250,CONDUCCIONS I ACOMPANYAMENTS,,,detalle,gub
+194,63,EDIFICIS OFICIALS,,,detalle,gub
+195,820,CAÇA / PESCA / FLORA / FAUNA,,,detalle,gub
+196,23,COMUNICATS D'EMERGÈNCIA,,,detalle,gub
+197,60,SUBMINISTRAMENTS BÀSICS,,,detalle,gub
+198,512,TRIBUS URBANES,,,detalle,gub
+199,102,REFORMA,,,detalle,gub
+200,101,ÀMBIT EDUCATIU,,,detalle,gub
+201,520,OCUPACIONS IL·LÍCITES,,,detalle,gub
+202,460,INCIDÈNCIES D'ALIMENTS,,,detalle,gub
+203,212,ACCIDENTS DE TRANSIT AMB MATERIES PERILLOSSES,,,detalle,gub
+204,489,PROVES DEL SISTEMA,,,detalle,gub
+205,710,CUSTÒDIES,,,detalle,gub
+206,631,CONTRA ELS DRETS DELS TREBALLADORS,,,detalle,gub
+207,304,ASSISTÈNCIA EN LES PLATGES,,,detalle,gub
+208,-1,Desconegut,,,detalle,gub
+209,621,DELICTES ALIMENTARIS,,,detalle,gub
+210,720,INCIDÈNCIES AMB PRESOS I DETINGUTS,,,detalle,gub
+211,999,SENSE IDENTIFICAR,,,detalle,gub
+212,90,TRASLLAT D'ORGANS,,,detalle,gub
+213,80,SISMES,,,detalle,gub
+214,940,FUITES - PRODUCTES QUÍMICS,,,detalle,gub
+215,21S,ACCIDENT PROCEDENT PASSAREL·LA SEM,,,detalle,gub
+216,900,AVARIA TÈCNICA,,,detalle,gub
+217,612,ACTES CONTRA LA PROPIETAT,,,detalle,gub
+218,962,ASSISTÈNCIA TÈCNICA,,,detalle,gub
+219,950,SALVAMENTS,,,detalle,gub
+220,911,FOC INTERIOR,,,detalle,gub
+221,960,ASSISTÈNCIA TÈCNICA,,,detalle,gub
+222,970,ALTRES,,,detalle,gub
+223,062,AVARIES DE SERVEIS MUNICIPALS,,,detalle,gub
+224,061,AVARIES DE SERVEIS PÚBLICS,,,detalle,gub
+225,000,INCENDIS,,,detalle,gub
+226,050,ATEMPTATS,,,detalle,gub
+227,022,NEU I GEL,,,detalle,gub
+228,070,SINISTRES EN EDIFICIS,,,detalle,gub
+229,040,TRANSPORT PÚBLIC,,,detalle,gub
+230,063,EDIFICIS OFICIALS,,,detalle,gub
+231,021,VENTS FORTS,,,detalle,gub
+232,020,PLUJA TORRENCIAL,,,detalle,gub
+233,060,SUBMINISTRAMENTS BÀSICS,,,detalle,gub
+234,023,COMUNICATS D'EMERGÈNCIA,,,detalle,gub
+235,030,MATÈRIES PERILLOSES,,,detalle,gub
+236,010,EXPLOSIONS,,,detalle,gub
+237,961,ASSISTÈNCIA TÈCNICA,,,detalle,gub
+238,920,FOC EXTERIOR,,,detalle,gub
+239,080,SISMES,,,detalle,gub
+240,213,ACCIDENTS (GUB-CME) (CME-GUB),,,detalle,gub
+241,090,TRASLLAT D'ORGANS,,,detalle,gub
+242,212,ACCIDENTS  DE TRANSIT AMB MATERIES PERILLOSSES,,,detalle,gub
+243,224,INFRACCIONS EN MOVIMENT (VEHICLES),,,detalle,gub
+244,300,ASSISTÈNCIA  A PERSONES EN EDIFICI,,,detalle,gub
+245,302,ASSISTÈNCIA A CONDUCTORS EN V. P.,,,detalle,gub
+246,305,COL·LABORACIONS AMB ALTRES SERVEIS,,,detalle,gub
+247,310,COL·LECTIUS VULNERABLES,,,detalle,gub
+248,470,ALTRES INTERVENCIONS DE P. ADMINISTRATIVA,,,detalle,gub
+249,21M,ACCIDENTS REBUTS PER PASSAREL·LA CME,,,detalle,gub
+250,311,CIVITAS,,,detalle,gub
+251,,1 Homicidio y sus formas,,,categoria,ministerio_ine
+252,,1. CONTRA LAS PERSONAS,,,categoria,ministerio_ine
+253,,1.1 Homicidio,,,subcategoria,ministerio_ine
+254,,1.1.-Homicidios dolosos/asesinatos,,,subcategoria,ministerio_ine
+255,,1.1.1.-Homicidios dolosos/asesinatos consumados,,,detalle,ministerio_ine
+256,,1.2 Asesinato,,,subcategoria,ministerio_ine
+257,,1.2.-Lesiones,,,subcategoria,ministerio_ine
+258,,1.3 Homicidio por imprudencia,,,subcategoria,ministerio_ine
+259,,1.3.-Malos tratos ámbito familiar,,,subcategoria,ministerio_ine
+260,,1.4 Inducción al suicidio,,,subcategoria,ministerio_ine
+261,,1.4.-Otros contra las personas,,,subcategoria,ministerio_ine
+262,,10. ORDEN PÚBLICO,,,categoria,ministerio_ine
+263,,11. LEGISLACIÓN ESPECIAL,,,categoria,ministerio_ine
+264,,12 Contra las relaciones familiares,,,categoria,ministerio_ine
+265,,12. OTRAS INFRACCIONES PENALES,,,categoria,ministerio_ine
+266,,12.3 Contra los derechos y deberes familiares,,,subcategoria,ministerio_ine
+267,,12.3.1 Quebrantamiento de los deberes de custodia,,,detalle,ministerio_ine
+268,,12.3.2 Sustracción de menores,,,detalle,ministerio_ine
+269,,12.3.3 Abandono de familia,,,detalle,ministerio_ine
+270,,12.99 Otros delitos contra las relaciones familiares,,,subcategoria,ministerio_ine
+271,,13 Contra el patrimonio y el orden socioeconómico,,,categoria,ministerio_ine
+272,,13.1 Hurtos,,,subcategoria,ministerio_ine
+273,,13.14 Receptación y blanqueo de capitales,,,subcategoria,ministerio_ine
+274,,13.2 Robos,,,subcategoria,ministerio_ine
+275,,13.2.1 Robo con violencia,,,detalle,ministerio_ine
+276,,13.2.2 Robo con fuerza,,,detalle,ministerio_ine
+277,,13.4 Robo y hurto de uso de vehículo,,,subcategoria,ministerio_ine
+278,,13.5 Usurpación,,,subcategoria,ministerio_ine
+279,,13.6 Defraudaciones,,,subcategoria,ministerio_ine
+280,,13.6.1 Estafas,,,detalle,ministerio_ine
+281,,13.6.2 BIS Apropiación indebida,,,detalle,ministerio_ine
+282,,13.6.3 Defraudaciones de fluido eléctrico,,,detalle,ministerio_ine
+283,,13.9 Daños,,,subcategoria,ministerio_ine
+284,,13.99 Otros delitos contra el patrimonio y orden socioeconómico,,,subcategoria,ministerio_ine
+285,,17 Contra la seguridad colectiva,,,categoria,ministerio_ine
+286,,17.3 Contra la salud pública,,,subcategoria,ministerio_ine
+287,,17.4 Contra la seguridad vial,,,subcategoria,ministerio_ine
+288,,17.99 Otros delitos contra la seguridad colectiva,,,subcategoria,ministerio_ine
+289,,18 Falsedades,,,categoria,ministerio_ine
+290,,18.2 Falsedades documentales,,,subcategoria,ministerio_ine
+291,,18.2.1 Falsificación documentos públicos,,,detalle,ministerio_ine
+292,,18.2.2 Falsificación documentos privados,,,detalle,ministerio_ine
+293,,18.2.3 Falsificación de certificados,,,detalle,ministerio_ine
+294,,18.2.4 Falsificación de tarjetas de crédito,,,detalle,ministerio_ine
+295,,18.99 Otros delitos de las falsedades,,,subcategoria,ministerio_ine
+296,,19 Contra la Administración Pública,,,categoria,ministerio_ine
+297,,19.3 Desobediencia y denegación auxilio,,,subcategoria,ministerio_ine
+298,,19.99 Otros delitos contra la Administración Pública,,,subcategoria,ministerio_ine
+299,,2. CONTRA LA LIBERTAD,,,categoria,ministerio_ine
+300,,2.1.-Malos tratos habituales en el ámbito familiar,,,subcategoria,ministerio_ine
+301,,2.2.-Otros contra la libertad,,,subcategoria,ministerio_ine
+302,,20 Contra la Administración de Justicia,,,categoria,ministerio_ine
+303,,20.5 Acusación y denuncia falsas y simulación de delitos,,,subcategoria,ministerio_ine
+304,,20.5.1 Acusación y denuncias falsas,,,detalle,ministerio_ine
+305,,20.5.2 Simulación del delito,,,detalle,ministerio_ine
+306,,20.8 Quebrantamiento de condena,,,subcategoria,ministerio_ine
+307,,20.99 Otros delitos contra la Administración de Justicia,,,subcategoria,ministerio_ine
+308,,22 Contra el orden público,,,categoria,ministerio_ine
+309,,22.2 Atentados contra la autoridad y de la resistencia y desobediencia,,,subcategoria,ministerio_ine
+310,,22.2.1 Atentados contra la autoridad,,,detalle,ministerio_ine
+311,,22.2.2 Resistencia y desobediencia,,,detalle,ministerio_ine
+312,,22.99 Otros delitos contra el orden público,,,subcategoria,ministerio_ine
+313,,3 Lesiones,,,categoria,ministerio_ine
+314,,3. LIBERTAD SEXUAL,,,categoria,ministerio_ine
+315,,3.1.-Agresión sexual,,,subcategoria,ministerio_ine
+316,,3.2.-Agresión sexual con penetración,,,subcategoria,ministerio_ine
+317,,3.3.-Corrupción de menores o incapacitados,,,subcategoria,ministerio_ine
+318,,3.4.-Pornografía de menores,,,subcategoria,ministerio_ine
+319,,3.5.-Otros contra la libertad e indemnidad sexual,,,subcategoria,ministerio_ine
+320,,3.5.-Otros contra la libertad sexual,,,subcategoria,ministerio_ine
+321,,4. RELACIONES FAMILIARES,,,categoria,ministerio_ine
+322,,5. PATRIMONIO,,,categoria,ministerio_ine
+323,,5.1.-Hurtos,,,subcategoria,ministerio_ine
+324,,5.2.-Robos con fuerza en las cosas,,,subcategoria,ministerio_ine
+325,,5.2.1.-Robos con fuerza en las cosas en el interior de vehículos,,,detalle,ministerio_ine
+326,,5.2.2.-Robos con fuerza en viviendas,,,detalle,ministerio_ine
+327,,5.2.3.-Robos con fuerza en establecimientos,,,detalle,ministerio_ine
+328,,5.3.-Robos con violencia o intimidación,,,subcategoria,ministerio_ine
+329,,5.3.1.-Robos con violencia en vía pública,,,detalle,ministerio_ine
+330,,5.3.2.-Robos con violencia en viviendas,,,detalle,ministerio_ine
+331,,5.3.3.-Robos con violencia en establecimientos,,,detalle,ministerio_ine
+332,,5.4.-Sustracción de vehículos,,,subcategoria,ministerio_ine
+333,,5.5.-Estafas,,,subcategoria,ministerio_ine
+334,,5.5.1.-Estafas informáticas,,,detalle,ministerio_ine
+335,,5.6.-Daños,,,subcategoria,ministerio_ine
+336,,5.7.-Contra la propiedad intelectual/industrial,,,subcategoria,ministerio_ine
+337,,5.8.-Blanqueo de capitales,,,subcategoria,ministerio_ine
+338,,5.9.-Otros contra el patrimonio,,,subcategoria,ministerio_ine
+339,,6 Contra la libertad,,,categoria,ministerio_ine
+340,,6. SEGURIDAD COLECTIVA,,,categoria,ministerio_ine
+341,,6.1.-Tráfico de drogas,,,subcategoria,ministerio_ine
+342,,6.2 Amenazas,,,subcategoria,ministerio_ine
+343,,6.2.-Contra la seguridad vial,,,subcategoria,ministerio_ine
+344,,6.3.-Otros contra la seguridad colectiva,,,subcategoria,ministerio_ine
+345,,6.9 Coacciones y detenciones ilegales,,,subcategoria,ministerio_ine
+346,,7 Torturas e integridad moral,,,categoria,ministerio_ine
+347,,7. FALSEDADES,,,categoria,ministerio_ine
+348,,7.1 Trato degradante y violencia,,,subcategoria,ministerio_ine
+349,,7.2 Tortura,,,subcategoria,ministerio_ine
+350,,7.3 Otros,,,subcategoria,ministerio_ine
+351,,8 Contra la libertad e indemnidad sexuales,,,categoria,ministerio_ine
+352,,8. ADMÓN. PÚBLICA,,,categoria,ministerio_ine
+353,,9. ADMÓN. JUSTICIA,,,categoria,ministerio_ine
+354,,A Total Delitos,,,detalle,ministerio_ine
+355,,R Resto de delitos,,,detalle,ministerio_ine
+356,,TOTAL INFRACCIONES PENALES,,,total,ministerio_ine

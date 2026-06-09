@@ -1,0 +1,514 @@
+font,anyo,id_territori,territori,nivel_territorial,categoria,subcategoria,indicador,valor,unitat,nota
+EVB,1983,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,24.9,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1984,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,25.5,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1985,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,26.2,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1986,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,25.4,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1987,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,21.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1988,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,17.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1989,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,18.0,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1990,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,17.1,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1991,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,17.0,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1992,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,13.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1993,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,18.0,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1994,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,15.8,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1995,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,14.1,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1996,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,14.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1997,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,13.4,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1998,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,14.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,1999,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,16.4,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2000,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,17.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2001,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,18.4,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2002,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,19.9,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2003,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,20.2,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2004,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,20.7,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2005,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,21.1,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2006,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,20.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2007,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,20.1,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2008,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,25.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2009,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,24.8,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2010,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,24.2,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2011,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,25.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2012,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,20.8,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2013,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,23.7,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2014,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,23.3,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2015,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,24.9,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2016,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,25.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2017,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,31.8,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2018,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,30.9,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2019,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,23.5,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2020,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,24.9,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2021,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,26.7,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2022,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,29.8,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2023,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,28.6,percentatge,Sin ciberdelincuencia (serie histórica 1983-2023)
+EVB,2024,,Barcelona,municipi,,,index_victimitzacio_sense_ciber,28.6,percentatge,2024: primer año con datos de ciberdelincuencia
+EVB,2024,,Barcelona,municipi,,,index_victimitzacio_amb_ciber,35.0,percentatge,2024: primer año con datos de ciberdelincuencia
+EVB,1983,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.1,escala_0_10,
+EVB,1984,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.8,escala_0_10,
+EVB,1985,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.8,escala_0_10,
+EVB,1986,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.7,escala_0_10,
+EVB,1987,,Barcelona,municipi,,,percepcio_seguretat_ciutat,3.8,escala_0_10,
+EVB,1988,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.3,escala_0_10,
+EVB,1989,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.3,escala_0_10,
+EVB,1990,,Barcelona,municipi,,,percepcio_seguretat_ciutat,4.8,escala_0_10,
+EVB,1991,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.0,escala_0_10,
+EVB,1992,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.0,escala_0_10,
+EVB,1993,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.2,escala_0_10,
+EVB,1994,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.3,escala_0_10,
+EVB,1995,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.6,escala_0_10,
+EVB,1996,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.8,escala_0_10,
+EVB,1997,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.2,escala_0_10,
+EVB,1998,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.3,escala_0_10,
+EVB,1999,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.1,escala_0_10,
+EVB,2000,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.9,escala_0_10,
+EVB,2001,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.1,escala_0_10,
+EVB,2002,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.1,escala_0_10,
+EVB,2003,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.2,escala_0_10,
+EVB,2004,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.4,escala_0_10,
+EVB,2005,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.2,escala_0_10,
+EVB,2006,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.3,escala_0_10,
+EVB,2007,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.6,escala_0_10,
+EVB,2008,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.7,escala_0_10,
+EVB,2009,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.6,escala_0_10,
+EVB,2010,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.4,escala_0_10,
+EVB,2011,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.6,escala_0_10,
+EVB,2012,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.7,escala_0_10,
+EVB,2013,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.0,escala_0_10,
+EVB,2014,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.1,escala_0_10,
+EVB,2015,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.2,escala_0_10,
+EVB,2016,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.3,escala_0_10,
+EVB,2017,,Barcelona,municipi,,,percepcio_seguretat_ciutat,6.2,escala_0_10,
+EVB,2018,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.2,escala_0_10,
+EVB,2019,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.2,escala_0_10,
+EVB,2020,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.6,escala_0_10,
+EVB,2021,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.4,escala_0_10,
+EVB,2022,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.3,escala_0_10,
+EVB,2023,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.3,escala_0_10,
+EVB,2024,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.5,escala_0_10,
+EVB,2025,,Barcelona,municipi,,,percepcio_seguretat_ciutat,5.5,escala_0_10,
+EVB,1983,,Barcelona,municipi,,,percepcio_seguretat_barri,4.6,escala_0_10,
+EVB,1984,,Barcelona,municipi,,,percepcio_seguretat_barri,5.0,escala_0_10,
+EVB,1985,,Barcelona,municipi,,,percepcio_seguretat_barri,5.1,escala_0_10,
+EVB,1986,,Barcelona,municipi,,,percepcio_seguretat_barri,5.1,escala_0_10,
+EVB,1987,,Barcelona,municipi,,,percepcio_seguretat_barri,4.2,escala_0_10,
+EVB,1988,,Barcelona,municipi,,,percepcio_seguretat_barri,4.8,escala_0_10,
+EVB,1989,,Barcelona,municipi,,,percepcio_seguretat_barri,5.0,escala_0_10,
+EVB,1990,,Barcelona,municipi,,,percepcio_seguretat_barri,5.6,escala_0_10,
+EVB,1991,,Barcelona,municipi,,,percepcio_seguretat_barri,5.5,escala_0_10,
+EVB,1992,,Barcelona,municipi,,,percepcio_seguretat_barri,5.5,escala_0_10,
+EVB,1993,,Barcelona,municipi,,,percepcio_seguretat_barri,5.7,escala_0_10,
+EVB,1994,,Barcelona,municipi,,,percepcio_seguretat_barri,5.7,escala_0_10,
+EVB,1995,,Barcelona,municipi,,,percepcio_seguretat_barri,5.8,escala_0_10,
+EVB,1996,,Barcelona,municipi,,,percepcio_seguretat_barri,6.2,escala_0_10,
+EVB,1997,,Barcelona,municipi,,,percepcio_seguretat_barri,6.8,escala_0_10,
+EVB,1998,,Barcelona,municipi,,,percepcio_seguretat_barri,6.8,escala_0_10,
+EVB,1999,,Barcelona,municipi,,,percepcio_seguretat_barri,6.4,escala_0_10,
+EVB,2000,,Barcelona,municipi,,,percepcio_seguretat_barri,6.4,escala_0_10,
+EVB,2001,,Barcelona,municipi,,,percepcio_seguretat_barri,6.3,escala_0_10,
+EVB,2002,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2003,,Barcelona,municipi,,,percepcio_seguretat_barri,6.0,escala_0_10,
+EVB,2004,,Barcelona,municipi,,,percepcio_seguretat_barri,6.0,escala_0_10,
+EVB,2005,,Barcelona,municipi,,,percepcio_seguretat_barri,5.9,escala_0_10,
+EVB,2006,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2007,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2008,,Barcelona,municipi,,,percepcio_seguretat_barri,6.2,escala_0_10,
+EVB,2009,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2010,,Barcelona,municipi,,,percepcio_seguretat_barri,6.2,escala_0_10,
+EVB,2011,,Barcelona,municipi,,,percepcio_seguretat_barri,6.3,escala_0_10,
+EVB,2012,,Barcelona,municipi,,,percepcio_seguretat_barri,6.2,escala_0_10,
+EVB,2013,,Barcelona,municipi,,,percepcio_seguretat_barri,6.4,escala_0_10,
+EVB,2014,,Barcelona,municipi,,,percepcio_seguretat_barri,6.4,escala_0_10,
+EVB,2015,,Barcelona,municipi,,,percepcio_seguretat_barri,6.3,escala_0_10,
+EVB,2016,,Barcelona,municipi,,,percepcio_seguretat_barri,6.5,escala_0_10,
+EVB,2017,,Barcelona,municipi,,,percepcio_seguretat_barri,6.4,escala_0_10,
+EVB,2018,,Barcelona,municipi,,,percepcio_seguretat_barri,5.9,escala_0_10,
+EVB,2019,,Barcelona,municipi,,,percepcio_seguretat_barri,5.9,escala_0_10,
+EVB,2020,,Barcelona,municipi,,,percepcio_seguretat_barri,6.2,escala_0_10,
+EVB,2021,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2022,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2023,,Barcelona,municipi,,,percepcio_seguretat_barri,6.1,escala_0_10,
+EVB,2024,,Barcelona,municipi,,,percepcio_seguretat_barri,6.3,escala_0_10,
+EVB,2025,,Barcelona,municipi,,,percepcio_seguretat_barri,6.3,escala_0_10,
+ESPC,2015,137,Cataluña,ccaa,cistell_2015,,index_victimitzacio,20.6,percentatge,
+ESPC,2017,137,Cataluña,ccaa,cistell_2015,,index_victimitzacio,25.9,percentatge,
+ESPC,2020,137,Cataluña,ccaa,cistell_2015,,index_victimitzacio,27.6,percentatge,
+ESPC,2022,137,Cataluña,ccaa,cistell_2015,,index_victimitzacio,32.4,percentatge,
+ESPC,2015,137,Cataluña,ccaa,cistell_2013,,index_victimitzacio,15.8,percentatge,
+ESPC,2017,137,Cataluña,ccaa,cistell_2013,,index_victimitzacio,20.3,percentatge,
+ESPC,2020,137,Cataluña,ccaa,cistell_2013,,index_victimitzacio,16.7,percentatge,
+ESPC,2022,137,Cataluña,ccaa,cistell_2013,,index_victimitzacio,21.0,percentatge,
+ESPC,2015,137,Cataluña,ccaa,cistell_2015,,index_fets_delictius,33.9,percentatge,
+ESPC,2017,137,Cataluña,ccaa,cistell_2015,,index_fets_delictius,43.4,percentatge,
+ESPC,2020,137,Cataluña,ccaa,cistell_2015,,index_fets_delictius,42.6,percentatge,
+ESPC,2022,137,Cataluña,ccaa,cistell_2015,,index_fets_delictius,63.3,percentatge,
+ESPC,2015,137,Cataluña,ccaa,cistell_2015,,index_multivictimitzacio,1.6,percentatge,
+ESPC,2017,137,Cataluña,ccaa,cistell_2015,,index_multivictimitzacio,1.7,percentatge,
+ESPC,2020,137,Cataluña,ccaa,cistell_2015,,index_multivictimitzacio,1.5,percentatge,
+ESPC,2022,137,Cataluña,ccaa,cistell_2015,,index_multivictimitzacio,1.8,percentatge,
+ESPC,2015,137,Cataluña,ccaa,cistell_2015,,record_espontani,6.6,escala,
+ESPC,2017,137,Cataluña,ccaa,cistell_2015,,record_espontani,6.5,escala,
+ESPC,2020,137,Cataluña,ccaa,cistell_2015,,record_espontani,7.3,escala,
+ESPC,2022,137,Cataluña,ccaa,cistell_2015,,record_espontani,8.4,escala,
+ESPC,2015,137,Cataluña,ccaa,cistell_2015,,nivell_seguretat_municipi,6.9,escala,
+ESPC,2017,137,Cataluña,ccaa,cistell_2015,,nivell_seguretat_municipi,7.2,escala,
+ESPC,2020,137,Cataluña,ccaa,cistell_2015,,nivell_seguretat_municipi,6.8,escala,
+ESPC,2022,137,Cataluña,ccaa,cistell_2015,,nivell_seguretat_municipi,6.6,escala,
+ISC,2001,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Poblacio empadronada a Catalunya,6361365.0,persones,
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Poblacio empadronada a Catalunya,7563000.0,persones,"Descens 0,2% vs any anterior"
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Poblacio empadronada a Catalunya,7570908.0,persones,
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Poblacio empadronada a Catalunya,7792611.0,persones,"Increment 0,4% vs 2021"
+ISC,2018,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Saldo migratori,100000.0,persones,Lleugerament per sota 100.000
+ISC,2019,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Saldo migratori,110000.0,persones,Per sobre 110.000
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Saldo migratori,50000.0,persones,No va arribar a 50.000
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Saldo migratori,35000.0,persones,Inferior a 35.000
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Poblacio,Saldo migratori,150000.0,persones,Superior a 150.000
+ISC,2019,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Taxa d'atur,11.0,%,
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Taxa d'atur,12.6,%,Increment pandemia covid-19
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Taxa d'atur,11.6,%,Recuperacio parcial
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Taxa d'atur,9.7,%,Millora dades prepandemia
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Salari brut anual mitja,27100.11,EUR,
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Mercat laboral,Salari brut anual mitja,28145.02,EUR,Dades 2022 no publicades en tancar l'informe
+ISC,2011,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions turistiques - Catalunya total,48174000.0,pernoctacions,
+ISC,2019,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions turistiques - Catalunya total,58236000.0,pernoctacions,Maxim del periode
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions turistiques - Catalunya total,13312000.0,pernoctacions,Caiguda per pandemia
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions turistiques - Catalunya total,25500000.0,pernoctacions,Gairebe el doble de 2020
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions turistiques - Catalunya total,53110000.0,pernoctacions,Recuperacio sense superar 2019
+ISC,2011,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions hotels - Barcelona,16815000.0,pernoctacions,
+ISC,2019,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions hotels - Barcelona,22354000.0,pernoctacions,
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions hotels - Barcelona,4610000.0,pernoctacions,
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Pernoctacions hotels - Barcelona,20750000.0,pernoctacions,
+ISC,2019,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Passatgers de creuers - Port de Barcelona,3500000.0,passatgers,"Aprox. 3,5 milions"
+ISC,2020,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Passatgers de creuers - Port de Barcelona,200000.0,passatgers,Menys de 200.000
+ISC,2021,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Passatgers de creuers - Port de Barcelona,500000.0,passatgers,Mes de mig milio
+ISC,2022,137,Cataluña,ccaa,Dades sociodemografiques,Turisme i poblacio flotant,Passatgers de creuers - Port de Barcelona,2300000.0,passatgers,"2,3 milions"
+ISC,2010,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,15905.0,efectius,
+ISC,2011,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16654.0,efectius,
+ISC,2012,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,17160.0,efectius,
+ISC,2013,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,17080.0,efectius,
+ISC,2014,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16973.0,efectius,
+ISC,2015,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16869.0,efectius,
+ISC,2016,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16783.0,efectius,
+ISC,2017,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16610.0,efectius,
+ISC,2018,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16450.0,efectius,
+ISC,2019,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,16916.0,efectius,
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,17361.0,efectius,
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,17889.0,efectius,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Efectius PG-ME,17881.0,efectius,
+ISC,2006,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Sostre plantilla PG-ME (acord JSC 2006),18267.0,efectius,
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Sostre plantilla PG-ME (acord JSC 2021),22006.0,efectius,Acord 5 novembre 2021; increment ~4.000 efectius
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Ratio PG-ME per 1.000 habitants,2.29,efectius per 1.000 hab.,
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Ratio objectiu PG-ME per 1.000 hab. (pre-2021),2.3,efectius per 1.000 hab.,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Mossos d'Esquadra (PG-ME),Ratio objectiu PG-ME per 1.000 hab. (post-2021),2.6,efectius per 1.000 hab.,Nou objectiu arran del nou sostre
+ISC,2019,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Total efectius policies locals,10703.0,efectius,
+ISC,2019,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (total Catalunya),1.39,efectius per 1.000 hab.,
+ISC,2019,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (municipis amb PL),1.56,efectius per 1.000 hab.,"Municipis: 217; cobreixen 89,9% poblacio catalana"
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Total efectius policies locals,10904.0,efectius,
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (total Catalunya),1.41,efectius per 1.000 hab.,
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (municipis amb PL),1.56,efectius per 1.000 hab.,"Municipis: 217; cobreixen 89,9% poblacio catalana"
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Total efectius policies locals,11167.0,efectius,
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (total Catalunya),1.44,efectius per 1.000 hab.,
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (municipis amb PL),1.61,efectius per 1.000 hab.,"Municipis: 217; cobreixen 89,9% poblacio catalana"
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Total efectius policies locals,11572.0,efectius,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (total Catalunya),1.49,efectius per 1.000 hab.,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio policies locals (municipis amb PL),1.66,efectius per 1.000 hab.,"Municipis: 217; cobreixen 89,9% poblacio catalana"
+ISC,2002,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio PL recomanat per Parlament (Mocio 156/VI),1.4,efectius per 1.000 hab.,"Rang recomanat: 1,3 - 1,5"
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Ratio PL total (grafic 4),1.48,efectius per 1.000 hab.,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Increment total efectius PL vs 2019,8.1,%,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Policies locals,Increment interanual efectius PL,3.6,%,2021-2022
+ISC,2005,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,3.92,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2006,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.07,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2007,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.25,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2008,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.32,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2009,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.43,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2010,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.48,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2011,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.53,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2012,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.51,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2013,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.58,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2014,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.57,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2015,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.54,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2016,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.49,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2017,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.45,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2018,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.48,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2019,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.51,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2020,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.51,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.58,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Ratio total policies per 1.000 hab. (totes forces),Ratio efectius policials totals per 1.000 hab.,4.62,efectius per 1.000 hab.,Inclou PG-ME + PL + FCSE
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,FCSE,Ratio FCSE per 1.000 habitants,0.84,efectius per 1.000 hab.,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Bombers professionals (funcionaris),2644.0,efectius,Final de 2022
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Bombers voluntaris,1934.0,efectius,Final de 2022
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Incorporacions bombers professionals,250.0,efectius nous,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Incorporacions bombers professionals,250.0,efectius nous,
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Caporals i caporales incorporats,112.0,efectius nous,Escala tecnica
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Sergents i sergentes incorporats,40.0,efectius nous,Escala tecnica
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Oficials incorporats,40.0,efectius nous,Escala tecnica; primer cop
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Sotsinspectors incorporats,15.0,efectius nous,Escala executiva
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Bombers de la Generalitat,Llocs laborals de suport creats (canvi climatic),154.0,llocs de treball,Diverses especialitats suport operatiu
+ISC,2021,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Total efectius CAR,482.0,efectius,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Total efectius CAR,489.0,efectius,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Tecnics operadors control (TEOC),41.0,efectius,21 sala central + 20 sales regionals
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Vehicles del CAR,215.0,vehicles,145 tot terreny
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Embarcacions de motor,9.0,embarcacions,
+ISC,2022,137,Cataluña,ccaa,Efectius cossos de seguretat,Cos d'Agents Rurals (CAR),Drons multirotor,18.0,drons,
+ISC,2020,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,Percentatge de dones al cos,21.5,%,
+ISC,2021,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,Percentatge de dones al cos,21.8,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,Percentatge de dones al cos,22.2,%,
+ISC,2020,137,Cataluña,ccaa,Feminitzacio cossos operatius,Policies locals,Percentatge de dones al cos,12.3,%,
+ISC,2021,137,Cataluña,ccaa,Feminitzacio cossos operatius,Policies locals,Percentatge de dones al cos,14.0,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,Policies locals,Percentatge de dones al cos,14.6,%,
+ISC,2020,137,Cataluña,ccaa,Feminitzacio cossos operatius,Bombers de la Generalitat,Percentatge de dones al cos,2.0,%,
+ISC,2021,137,Cataluña,ccaa,Feminitzacio cossos operatius,Bombers de la Generalitat,Percentatge de dones al cos,2.2,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,Bombers de la Generalitat,Percentatge de dones al cos,2.8,%,
+ISC,2020,137,Cataluña,ccaa,Feminitzacio cossos operatius,Cos d'Agents Rurals,Percentatge de dones al cos,12.9,%,
+ISC,2021,137,Cataluña,ccaa,Feminitzacio cossos operatius,Cos d'Agents Rurals,Percentatge de dones al cos,13.1,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,Cos d'Agents Rurals,Percentatge de dones al cos,13.9,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,Dones graduades promocio 46/22,288.0,persones,"De 742 alumnes totals (38,8%); percentatge mes alt de la historia"
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,"% dones graduades (cos PG-ME, convocatoria 46/22)",38.8,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME,% dones graduades (tota promocio incl. PL),34.0,%,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME - Convocatoria 46/22,Places reservades per a dones,336.0,places,De 840 places totals (40%); primera convocatoria amb reserva
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME - Convocatoria 46/22,Places no reservades,504.0,places,
+ISC,2022,137,Cataluña,ccaa,Feminitzacio cossos operatius,PG-ME - Convocatoria 46/22,Total places convocatoria,840.0,places,
+ISC,2018,137,Cataluña,ccaa,Fets penals coneguts,Totals,Total fets penals coneguts (PG-ME + PL),564820.0,fets,
+ISC,2019,137,Cataluña,ccaa,Fets penals coneguts,Totals,Total fets penals coneguts (PG-ME + PL),578734.0,fets,
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Totals,Total fets penals coneguts (PG-ME + PL),469189.0,fets,"Calculat a partir de +21,57% de 2022"
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Totals,Total fets penals coneguts (PG-ME + PL),570387.0,fets,"+21,57% vs 2021; entre xifres 2018 i 2019"
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Fets contra el patrimoni (%),81.0,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Fets contra el patrimoni (%),82.6,%,
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Fets contra les persones (%),11.0,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Fets contra les persones (%),9.8,%,
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Resta de fets (%),8.0,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Distribucio per tipologia,Resta de fets (%),7.6,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Fets contra les persones - detall 2022,Lesions (% sobre fets contra persones),30.9,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Fets contra les persones - detall 2022,Amenaces (% sobre fets contra persones),27.1,%,
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Fets contra les persones - detall 2022,Maltractaments ambit llar (% sobre fets contra persones),15.6,%,
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Homicidis i assassinats consumats,Homicidis/assassinats consumats,60.0,fets,Tendencia estable ~60/any
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Homicidis i assassinats consumats,Homicidis/assassinats consumats,60.0,fets,+1 instruido per Guardia Civil
+ISC,2019,137,Cataluña,ccaa,Fets penals coneguts,Agressions i abusos sexuals,Agressions i abusos sexuals (fets coneguts),2613.0,fets,"Calculat: 3275/1,2519"
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Agressions i abusos sexuals,Agressions i abusos sexuals (fets coneguts),3275.0,fets,"+25,19% vs 2019"
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Delictes contra el patrimoni - detall,Furts (% delictes contra patrimoni),41.9,%,-14% dels coneguts el 2019
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Delictes contra el patrimoni - detall,Estafes (% delictes contra patrimoni),19.8,%,+43% vs 2019
+ISC,2021,137,Cataluña,ccaa,Fets penals coneguts,Delictes d'odi i discriminacio,Delictes d'odi i discriminacio,647.0,fets,"Calculat: 814/1,2582"
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Delictes d'odi i discriminacio,Delictes d'odi i discriminacio,814.0,fets,"+25,82% vs 2021; representa 0,15% del total fets"
+ISC,2022,137,Cataluña,ccaa,Fets penals coneguts,Delictes contra la salut publica (narcotrafico/cannabis),Variacio delictes contra la salut publica 2019-2022,30.0,%,+30% aprox.; proliferacio plantacions marihuana
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Metodologia,Mostra de persones enquestades,7995.0,persones,Persones de 16 anys i mes
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Index de victimitzacio,Index victimitzacio (incloent estafes i fraus),32.4,%,"+4,8 pp vs ESPC 2020; retorn a valors prepandemia en tots ambits excepte estafes"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Index de victimitzacio,Index victimitzacio (excloent estafes i fraus),25.8,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Index de victimitzacio,Record espontani dels fets victimitzadors,8.4,%,% persones que recorden espontaniament (sense ser preguntades)
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Index de victimitzacio,Estafes i fraus (% del total fets registrats),33.9,%,Mes del 60% del subambit son carrecs indeguts i enganys en compra
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat cognitiva (0-10),Puntuacio seguretat al municipi (0-10),6.5,punts (0-10),Tendencia a la baixa vs edicions anteriors; per sobre la mitjana de la serie temporal
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat cognitiva (0-10),Puntuacio seguretat al municipi - victimitzades (0-10),5.9,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat cognitiva (0-10),Puntuacio seguretat al municipi - no victimitzades (0-10),6.9,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,Puntuacio seguretat - molta dificultat economica (0-10),6.4,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,Puntuacio seguretat - sense dificultat economica (0-10),6.9,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,Index victimitzacio - molta dificultat economica,43.2,%,"Molt per sobre la mitjana de 32,4%"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,% no ha canviat habits - molta dificultat economica,60.8,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,% no ha canviat habits - sense dificultat economica,70.5,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,% gens preocupat per delinquencia - molta dificultat,23.7,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Percepcio de seguretat per estatus economic,% gens preocupat per delinquencia - sense dificultat,31.1,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Canvi de comportament per por (percepcio conductual),% NO ha canviat habits per por al delicte - total,66.3,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Canvi de comportament per por (percepcio conductual),% NO ha canviat habits per por - homes,78.0,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Canvi de comportament per por (percepcio conductual),% NO ha canviat habits per por - dones,55.1,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Canvi de comportament per por (percepcio conductual),% HA canviat habits per por - homes,21.8,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Canvi de comportament per por (percepcio conductual),% HA canviat habits per por - dones,44.5,%,El doble que els homes
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Molestes experiencia victimitzadora - mitja (0-10),7.0,punts (0-10),Victimitzacio de baixa intensitat emocional pero molesta
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Molestes experiencia victimitzadora - dones (0-10),7.4,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Molestes experiencia victimitzadora - homes (0-10),6.7,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Afectacio psicologica victimitzacio - mitja (0-10),5.5,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Afectacio psicologica victimitzacio - dones (0-10),6.1,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Afectacio psicologica victimitzacio - homes (0-10),5.0,punts (0-10),
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Afectacio psicologica - 65 anys o mes (0-10),6.0,punts (0-10),"0,5 pts per sobre la mitja"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Impacte emocional de la victimitzacio,Afectacio psicologica - 16-25 anys (0-10),5.0,punts (0-10),"0,5 pts per sota la mitja"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions fisiques amb autor home o homes,80.0,%,Aprox.
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions per persona coneguda,45.0,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions per parella/exparella/familiar,25.7,%,Sobre total agressions per coneguts
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions per persona de la feina/estudis,27.4,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions per persona del barri/entorn,38.5,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% dones victimes d'agressions ambit parella/familia,75.3,%,"vs 24,6% homes"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% homes victimes d'agressions ambit parella/familia,24.6,%,"vs 75,3% dones"
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions amb caracter sexual sobre total,12.7,%,
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions sexuals patides per dones,94.0,%,vs 6% homes
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions sexuals victimes 16-25 anys,47.0,%,Franja mes afectada
+ISC,2022,137,Cataluña,ccaa,ESPC - Enquesta de seguretat publica de Catalunya,Victimes de violencia i perfil d'autor,% agressions sexuals victimes 16-40 anys,32.5,%,
+ISC,2009,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),11.0,victimes,
+ISC,2010,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),13.0,victimes,
+ISC,2011,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),12.0,victimes,
+ISC,2012,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),13.0,victimes,
+ISC,2013,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),4.0,victimes,
+ISC,2014,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),14.0,victimes,
+ISC,2015,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),6.0,victimes,
+ISC,2016,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),8.0,victimes,
+ISC,2017,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),9.0,victimes,
+ISC,2018,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),8.0,victimes,
+ISC,2019,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),9.0,victimes,
+ISC,2020,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),9.0,victimes,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),9.0,victimes,
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Dones assassinades per parella/exparella (feminicidi),9.0,victimes,
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Feminicidis - victimes mortals per parella/exparella,Total acumulat feminicidis 2009-2022,134.0,victimes,Suma total 2009-2022
+ISC,2009,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Total denunciesVM parella,14097.0,denunciesVM,
+ISC,2020,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Total denunciesVM parella,12446.0,denunciesVM,Descens durant pandemia
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Total denunciesVM parella,13500.0,denunciesVM,Recuperacio dades prepandemia (aprox.)
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Total denunciesVM parella,15644.0,denunciesVM,+15% vs 2019
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Total victimes VM parella,15154.0,victimes,
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Denunciesviolencia masclista ambit parella,Variacio denunciesVM parella 2019-2022,15.0,%,+15% increment
+ISC,2009,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),558.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2010,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),563.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2011,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),521.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2012,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),432.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2013,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),378.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2014,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1002.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2015,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1023.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2016,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1342.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2017,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1330.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2018,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1678.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2019,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1899.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2020,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),1525.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),2083.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Fets agressions i abusos sexuals (ambit social/comunitari),2814.0,fets,El 2014 es va ampliar la tipologia de fets
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Variacio violencies sexuals 2019-2022,48.0,%,+48% vs 2019
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,Variacio violencies sexuals 2021-2022,35.0,%,+35%
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,% VS per autor conegut,60.0,%,Passen en entorns que la victima considera segurs
+ISC,2022,137,Cataluña,ccaa,Violencies masclistes,Violencies sexuals ambit social o comunitari,% VS per autor desconegut,40.0,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,Mostra entrevistades,9575.0,dones,Dones 16+ anys residents a Catalunya
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones que han patit com a minim 1 fet VM en la vida,79.3,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones que han patit VM durant el darrer any,26.2,%,+9 pp vs EVMC 2016
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes de violencia sexual (vida),65.2,%,Inclou comentaris/gestos sexuals
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes de violencia sexual (excl. comentaris/gestos),39.1,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes de violencia psicologica,47.5,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes de violencia digital,28.0,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones que han patit una violacio en la vida,13.6,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones que han patit intent de violacio,12.8,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes VM fora de la parella (vida),67.9,%,"47,8% excloent comentaris/gestos"
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes VM ambit parella (vida des dels 15 anys),52.2,%,Una de cada dues dones
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones victimes VM ambit parella (any 2021),14.7,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones joves 16-29 anys victimes VM (vida),82.7,%,Excloent comentaris/gestos
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones majors 65 anys victimes VM (vida),49.3,%,Excloent comentaris/gestos
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones que decideixen denunciar els fets,18.4,%,Xifra negra elevada (>80% no denuncien)
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% violacions comeses per home conegut per la dona,62.6,%,
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% dones patint violencia digital en el darrer any,9.5,%,Xifra duplicada respecte edicions anteriors
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% fets VM en l'entorn virtual xarxes socials,38.7,%,Primer espai on passen els fets (supera l'oci)
+ISC,2021,137,Cataluña,ccaa,Violencies masclistes,EVMC 2021 - Enquesta de violencies masclistes de Catalunya,% fets VM en espais d'oci,19.9,%,Segon espai
+ISC,2013,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,62061.0,actuacions,Linia ascendent des de 2014
+ISC,2014,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,60716.0,actuacions,Linia ascendent des de 2014
+ISC,2015,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,61491.0,actuacions,Linia ascendent des de 2014
+ISC,2016,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,63672.0,actuacions,Linia ascendent des de 2014
+ISC,2017,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,68242.0,actuacions,Linia ascendent des de 2014
+ISC,2018,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,70766.0,actuacions,Linia ascendent des de 2014
+ISC,2019,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,73677.0,actuacions,Linia ascendent des de 2014
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,71208.0,actuacions,Linia ascendent des de 2014
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,77121.0,actuacions,Linia ascendent des de 2014
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Total actuacions bombers de la Generalitat,78050.0,actuacions,Linia ascendent des de 2014
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Variacio actuacions 2020-2021,8.3,%,"+8,3%"
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,Variacio actuacions 2021-2022,1.0,%,+1%
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Total actuacions,% actuacions urgents sobre total,70.0,%,Mes del 70% son urgents
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Assistencies tecniques urgents,15683.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Assistencies tecniques urgents,9538.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Assistencies tecniques urgents,9525.0,actuacions,
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Fuites perilloses,1106.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Fuites perilloses,1374.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Fuites perilloses,1689.0,actuacions,
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi urba,12208.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi urba,14029.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi urba,14619.0,actuacions,
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi de vegetacio,3813.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi de vegetacio,5595.0,actuacions,"+46,7% vs 2020"
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Incendi de vegetacio,5964.0,actuacions,
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Mobilitat,8068.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Mobilitat,9518.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Mobilitat,9780.0,actuacions,
+ISC,2020,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Salvaments,13094.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Salvaments,14272.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Salvaments,17436.0,actuacions,"+22,16% vs 2021"
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Total urgents,54326.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions urgents per tipus,Total urgents,59013.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Activitat no urgent,12481.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Activitat no urgent,10107.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Dispositiu preventiu,1424.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Dispositiu preventiu,1736.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Practiques,8523.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Practiques,6788.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Simulacres,116.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Simulacres,183.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Suport tecnic,251.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Suport tecnic,223.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Total no urgents,22795.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Bombers i emergencies,Actuacions no urgents per tipus,Total no urgents,19037.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Total actuacions CAR,114770.0,actuacions,
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Total actuacions CAR,119959.0,actuacions,
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Denunciesinfr. administratives,3575.0,denunciesVM,
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Denunciesinfr. administratives,4005.0,denunciesVM,
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Atestats,163.0,atestats,
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Totals,Atestats,175.0,atestats,
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,"Fauna protegida, caca i pesca",44829.0,actuacions,~40% del total
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,"Fauna protegida, caca i pesca",42157.0,actuacions,~40% del total
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Atestats per delictes contra la fauna,71.0,atestats,
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Atestats per delictes contra la fauna,82.0,atestats,
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Prevencio i investigacio incendis forestals,19880.0,actuacions,~20% del total
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Prevencio i investigacio incendis forestals,25319.0,actuacions,"+27,36% vs 2021; efecte canvi climatic i estiu extrem"
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Recursos forestals,13179.0,actuacions,~10% del total
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Recursos forestals,12476.0,actuacions,~10% del total
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Espais naturals protegits i biodiversitat,16119.0,actuacions,~20% del total
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Espais naturals protegits i biodiversitat,21003.0,actuacions,"+30,30% vs 2021; increment us medi natural com oci"
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Actuacions educacio i sensibilitzacio ambiental (activitats),552.0,activitats,10.857 assistents
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Actuacions educacio i sensibilitzacio ambiental (activitats),714.0,activitats,16.901 assistents
+ISC,2021,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Assistents educacio ambiental,10857.0,persones,
+ISC,2022,137,Cataluña,ccaa,Cos d'Agents Rurals - actuacions,Per ambit,Assistents educacio ambiental,16901.0,persones,
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Total trucades rebudes 112,3169109.0,trucades,"+5,7% vs 2020"
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Total trucades rebudes 112,3391044.0,trucades,+7% vs 2021
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Trucades operatives (activen recurs),2096884.0,trucades,+11% vs 2020
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Trucades operatives (activen recurs),2234855.0,trucades,"+6,6% vs 2021"
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Variacio trucades no operatives,-2.6,%,Reducció
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Variacio trucades no operatives,17.4,%,Increment
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Variacio trucades informatives,-4.0,%,Reduccio
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Volum,Variacio trucades informatives,-15.2,%,Reduccio
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Qualitat del servei,Nivell d'atencio (% gestionades sobre rebudes),98.9,%,Objectiu: 95%
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Qualitat del servei,Nivell d'atencio (% gestionades sobre rebudes),99.1,%,Objectiu: 95%
+ISC,2021,137,Cataluña,ccaa,Trucades d'urgencia al 112,Qualitat del servei,Nivell de servei (% ateses < 10 segons),96.2,%,Objectiu: 95%
+ISC,2022,137,Cataluña,ccaa,Trucades d'urgencia al 112,Qualitat del servei,Nivell de servei (% ateses < 10 segons),96.8,%,Objectiu: 95%
+ISC,2019,137,Cataluña,ccaa,Seguretat viaria,Victimes mortals per accident de transit,Victimes mortals a 30 dies,304.0,victimes,
+ISC,2021,137,Cataluña,ccaa,Seguretat viaria,Victimes mortals per accident de transit,Victimes mortals a 30 dies,242.0,victimes,
+ISC,2022,137,Cataluña,ccaa,Seguretat viaria,Victimes mortals per accident de transit,Victimes mortals a 30 dies,264.0,victimes,Increment vs 2021; encara per sota de 2019
+ISC,2022,137,Cataluña,ccaa,Seguretat viaria,Esperanca de vida,Esperanca de vida total Catalunya,83.3,anys,"+1,3 anys sobre la mitja zona euro (82 anys)"
+ISC,2022,137,Cataluña,ccaa,Seguretat viaria,Esperanca de vida,Esperanca de vida dones,86.3,anys,
+ISC,2022,137,Cataluña,ccaa,Seguretat viaria,Esperanca de vida,Esperanca de vida homes,80.8,anys,
+ISC,2030,137,Cataluña,ccaa,Seguretat viaria,Objectius reduccio victimes,Objectiu reduccio victimes mortals UE al 2030 (vs 2020),-50.0,%,Objectiu europeu: -50%
+ISC,2023,137,Cataluña,ccaa,Seguretat viaria,Objectius reduccio victimes,Objectiu Pla Seguretat Viaria 2021-2023 (vs 2021),-15.0,%,Reduccio del 15% de victimes mortals vs 2021
+ISC,2009,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,1613.0,concentracions,
+ISC,2010,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,2122.0,concentracions,
+ISC,2011,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,2022.0,concentracions,
+ISC,2012,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,3287.0,concentracions,
+ISC,2013,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,5138.0,concentracions,
+ISC,2014,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,4892.0,concentracions,
+ISC,2015,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,3485.0,concentracions,
+ISC,2016,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,2348.0,concentracions,
+ISC,2017,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,9106.0,concentracions,Pic maxim; efecte referendum 1-O
+ISC,2018,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,7467.0,concentracions,
+ISC,2019,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,7701.0,concentracions,
+ISC,2020,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,5440.0,concentracions,Reduccio per pandemia
+ISC,2021,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,7701.0,concentracions,Represa concentracions prepandemia; per sobre 2019
+ISC,2022,137,Cataluña,ccaa,Manifestacions i concentracions,Comunicades,Total concentracions i manifestacions comunicades,6676.0,concentracions,Reduccio 13% vs 2021
+ISC,2018,137,Cataluña,ccaa,Activitat policies locals,Consultes al SIP,Consultes al SIP (milions),15.4,milions de consultes,Supera dades prepandemia els darrers dos anys
+ISC,2019,137,Cataluña,ccaa,Activitat policies locals,Consultes al SIP,Consultes al SIP (milions),17.3,milions de consultes,Supera dades prepandemia els darrers dos anys
+ISC,2020,137,Cataluña,ccaa,Activitat policies locals,Consultes al SIP,Consultes al SIP (milions),16.0,milions de consultes,Supera dades prepandemia els darrers dos anys
+ISC,2021,137,Cataluña,ccaa,Activitat policies locals,Consultes al SIP,Consultes al SIP (milions),18.0,milions de consultes,Supera dades prepandemia els darrers dos anys
+ISC,2022,137,Cataluña,ccaa,Activitat policies locals,Consultes al SIP,Consultes al SIP (milions),19.8,milions de consultes,Supera dades prepandemia els darrers dos anys
+ISC,2018,137,Cataluña,ccaa,Activitat policies locals,Delictes per fet conegut principal,Delictes per fet conegut principal - PL (milers),111.0,milers de delictes,
+ISC,2019,137,Cataluña,ccaa,Activitat policies locals,Delictes per fet conegut principal,Delictes per fet conegut principal - PL (milers),118.0,milers de delictes,
+ISC,2020,137,Cataluña,ccaa,Activitat policies locals,Delictes per fet conegut principal,Delictes per fet conegut principal - PL (milers),77.0,milers de delictes,
+ISC,2021,137,Cataluña,ccaa,Activitat policies locals,Delictes per fet conegut principal,Delictes per fet conegut principal - PL (milers),87.0,milers de delictes,
+ISC,2022,137,Cataluña,ccaa,Activitat policies locals,Delictes per fet conegut principal,Delictes per fet conegut principal - PL (milers),106.0,milers de delictes,
+ISC,2018,137,Cataluña,ccaa,Activitat policies locals,Detencions,Total detencions per policies locals,10269.0,detencions,Tendencia a l'alca des de 2021
+ISC,2019,137,Cataluña,ccaa,Activitat policies locals,Detencions,Total detencions per policies locals,12203.0,detencions,Tendencia a l'alca des de 2021
+ISC,2020,137,Cataluña,ccaa,Activitat policies locals,Detencions,Total detencions per policies locals,10667.0,detencions,Tendencia a l'alca des de 2021
+ISC,2021,137,Cataluña,ccaa,Activitat policies locals,Detencions,Total detencions per policies locals,11976.0,detencions,Tendencia a l'alca des de 2021
+ISC,2022,137,Cataluña,ccaa,Activitat policies locals,Detencions,Total detencions per policies locals,14192.0,detencions,Tendencia a l'alca des de 2021
+ISC,2022,137,Cataluña,ccaa,Activitat policies locals,Serveis i actuacions per ambit (2022),Seguretat ciutadana (% serveis totals),31.0,%,"Mes d'un milio de serveis; +7,2% vs 2021"
+ISC,2022,137,Cataluña,ccaa,Activitat policies locals,Serveis i actuacions per ambit (2022),Transit (% serveis totals),24.4,%,"Mes de 800.000 serveis; +9,1% vs 2021"
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Total resultats en materia de seguretat,120.0,resultats,"96 conjunts de dades, 23 pagines web, 1 mapa"
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Resultats relacionats amb policia,50.0,resultats,47 conjunts de dades
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Resultats relacionats amb transit,22.0,resultats,17 conjunts de dades
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Resultats relacionats amb emergencies,22.0,resultats,6 conjunts de dades
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades sobre bombers,12.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades de proteccio civil,10.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades de formacio,8.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades del 112,3.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades de seguretat privada,3.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Dades obertes i transparencia,Conjunts de dades al portal dades obertes,Conjunts de dades sobre agents rurals,2.0,conjunts dades,
+ISC,2022,137,Cataluña,ccaa,Seguretat privada,Personal control d'acces,Personal habilitat control d'acces vigent,3904.0,persones,Final de 2022; dues convocatories anuals des de 2022

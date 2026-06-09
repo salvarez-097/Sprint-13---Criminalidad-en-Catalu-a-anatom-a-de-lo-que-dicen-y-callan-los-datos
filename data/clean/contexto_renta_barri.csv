@@ -1,0 +1,1242 @@
+anyo,id_territori,territori,nivel_territorial,indicador,categoria,sexe,valor,unitat
+2015,65,el Raval,barri,renta_tributaria_barri,,,23380,euros
+2015,66,el Barri Gòtic,barri,renta_tributaria_barri,,,26897,euros
+2015,67,la Barceloneta,barri,renta_tributaria_barri,,,23761,euros
+2015,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,26178,euros
+2015,96,el Fort Pienc,barri,renta_tributaria_barri,,,37344,euros
+2015,88,la Sagrada Família,barri,renta_tributaria_barri,,,36138,euros
+2015,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,47119,euros
+2015,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,42125,euros
+2015,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,40483,euros
+2015,118,Sant Antoni,barri,renta_tributaria_barri,,,35109,euros
+2015,68,el Poble Sec,barri,renta_tributaria_barri,,,27325,euros
+2015,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,22624,euros
+2015,80,la Marina de Port,barri,renta_tributaria_barri,,,29492,euros
+2015,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,33321,euros
+2015,131,Hostafrancs,barri,renta_tributaria_barri,,,31986,euros
+2015,123,la Bordeta,barri,renta_tributaria_barri,,,32656,euros
+2015,121,Sants-Badal,barri,renta_tributaria_barri,,,32153,euros
+2015,83,Sants,barri,renta_tributaria_barri,,,34418,euros
+2015,76,les Corts,barri,renta_tributaria_barri,,,46666,euros
+2015,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,43353,euros
+2015,112,Pedralbes,barri,renta_tributaria_barri,,,70412,euros
+2015,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,51461,euros
+2015,119,Sarrià,barri,renta_tributaria_barri,,,62638,euros
+2015,116,les Tres Torres,barri,renta_tributaria_barri,,,74410,euros
+2015,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,62234,euros
+2015,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,61673,euros
+2015,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,46537,euros
+2015,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,44813,euros
+2015,84,el Coll,barri,renta_tributaria_barri,,,32555,euros
+2015,101,la Salut,barri,renta_tributaria_barri,,,40330,euros
+2015,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,33971,euros
+2015,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,38815,euros
+2015,69,el Baix Guinardó,barri,renta_tributaria_barri,,,34858,euros
+2015,134,Can Baró,barri,renta_tributaria_barri,,,32414,euros
+2015,63,el Guinardó,barri,renta_tributaria_barri,,,33672,euros
+2015,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,42312,euros
+2015,87,el Carmel,barri,renta_tributaria_barri,,,25682,euros
+2015,113,la Teixonera,barri,renta_tributaria_barri,,,27833,euros
+2015,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,30761,euros
+2015,82,Montbau,barri,renta_tributaria_barri,,,31340,euros
+2015,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,36992,euros
+2015,136,la Clota,barri,renta_tributaria_barri,,,28724,euros
+2015,79,Horta,barri,renta_tributaria_barri,,,33835,euros
+2015,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,32329,euros
+2015,77,Porta,barri,renta_tributaria_barri,,,28903,euros
+2015,122,el Turó de la Peira,barri,renta_tributaria_barri,,,25014,euros
+2015,127,Can Peguera,barri,renta_tributaria_barri,,,21860,euros
+2015,91,la Guineueta,barri,renta_tributaria_barri,,,32415,euros
+2015,89,Canyelles,barri,renta_tributaria_barri,,,31374,euros
+2015,104,les Roquetes,barri,renta_tributaria_barri,,,24123,euros
+2015,120,Verdun,barri,renta_tributaria_barri,,,23939,euros
+2015,71,la Prosperitat,barri,renta_tributaria_barri,,,26747,euros
+2015,128,la Trinitat Nova,barri,renta_tributaria_barri,,,21026,euros
+2015,94,Torre Baró,barri,renta_tributaria_barri,,,23546,euros
+2015,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,21911,euros
+2015,93,Vallbona,barri,renta_tributaria_barri,,,22351,euros
+2015,92,la Trinitat Vella,barri,renta_tributaria_barri,,,24373,euros
+2015,130,Baró de Viver,barri,renta_tributaria_barri,,,20972,euros
+2015,98,el Bon Pastor,barri,renta_tributaria_barri,,,28751,euros
+2015,108,Sant Andreu,barri,renta_tributaria_barri,,,35109,euros
+2015,70,la Sagrera,barri,renta_tributaria_barri,,,33280,euros
+2015,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,32067,euros
+2015,129,Navas,barri,renta_tributaria_barri,,,33732,euros
+2015,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,33388,euros
+2015,102,el Clot,barri,renta_tributaria_barri,,,34555,euros
+2015,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,35508,euros
+2015,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,57948,euros
+2015,114,el Poblenou,barri,renta_tributaria_barri,,,35974,euros
+2015,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,40526,euros
+2015,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,25518,euros
+2015,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,32678,euros
+2015,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,31512,euros
+2015,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,30053,euros
+2016,65,el Raval,barri,renta_tributaria_barri,,,23867,euros
+2016,66,el Barri Gòtic,barri,renta_tributaria_barri,,,27044,euros
+2016,67,la Barceloneta,barri,renta_tributaria_barri,,,24206,euros
+2016,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,27142,euros
+2016,96,el Fort Pienc,barri,renta_tributaria_barri,,,37836,euros
+2016,88,la Sagrada Família,barri,renta_tributaria_barri,,,36530,euros
+2016,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,48566,euros
+2016,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,42638,euros
+2016,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,41220,euros
+2016,118,Sant Antoni,barri,renta_tributaria_barri,,,35974,euros
+2016,68,el Poble Sec,barri,renta_tributaria_barri,,,27733,euros
+2016,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,23260,euros
+2016,80,la Marina de Port,barri,renta_tributaria_barri,,,30166,euros
+2016,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,33682,euros
+2016,131,Hostafrancs,barri,renta_tributaria_barri,,,32494,euros
+2016,123,la Bordeta,barri,renta_tributaria_barri,,,33341,euros
+2016,121,Sants-Badal,barri,renta_tributaria_barri,,,32034,euros
+2016,83,Sants,barri,renta_tributaria_barri,,,35066,euros
+2016,76,les Corts,barri,renta_tributaria_barri,,,48115,euros
+2016,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,44630,euros
+2016,112,Pedralbes,barri,renta_tributaria_barri,,,73268,euros
+2016,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,55495,euros
+2016,119,Sarrià,barri,renta_tributaria_barri,,,62529,euros
+2016,116,les Tres Torres,barri,renta_tributaria_barri,,,76950,euros
+2016,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,63732,euros
+2016,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,63265,euros
+2016,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,48102,euros
+2016,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,44638,euros
+2016,84,el Coll,barri,renta_tributaria_barri,,,32919,euros
+2016,101,la Salut,barri,renta_tributaria_barri,,,40671,euros
+2016,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,34732,euros
+2016,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,39420,euros
+2016,69,el Baix Guinardó,barri,renta_tributaria_barri,,,35109,euros
+2016,134,Can Baró,barri,renta_tributaria_barri,,,32853,euros
+2016,63,el Guinardó,barri,renta_tributaria_barri,,,34248,euros
+2016,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,44179,euros
+2016,87,el Carmel,barri,renta_tributaria_barri,,,26125,euros
+2016,113,la Teixonera,barri,renta_tributaria_barri,,,28566,euros
+2016,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,30492,euros
+2016,82,Montbau,barri,renta_tributaria_barri,,,31578,euros
+2016,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,38142,euros
+2016,136,la Clota,barri,renta_tributaria_barri,,,30911,euros
+2016,79,Horta,barri,renta_tributaria_barri,,,34627,euros
+2016,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,32796,euros
+2016,77,Porta,barri,renta_tributaria_barri,,,29418,euros
+2016,122,el Turó de la Peira,barri,renta_tributaria_barri,,,25568,euros
+2016,127,Can Peguera,barri,renta_tributaria_barri,,,22720,euros
+2016,91,la Guineueta,barri,renta_tributaria_barri,,,33066,euros
+2016,89,Canyelles,barri,renta_tributaria_barri,,,32104,euros
+2016,104,les Roquetes,barri,renta_tributaria_barri,,,24322,euros
+2016,120,Verdun,barri,renta_tributaria_barri,,,24063,euros
+2016,71,la Prosperitat,barri,renta_tributaria_barri,,,26888,euros
+2016,128,la Trinitat Nova,barri,renta_tributaria_barri,,,22065,euros
+2016,94,Torre Baró,barri,renta_tributaria_barri,,,24087,euros
+2016,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,22052,euros
+2016,93,Vallbona,barri,renta_tributaria_barri,,,23022,euros
+2016,92,la Trinitat Vella,barri,renta_tributaria_barri,,,24772,euros
+2016,130,Baró de Viver,barri,renta_tributaria_barri,,,22098,euros
+2016,98,el Bon Pastor,barri,renta_tributaria_barri,,,29197,euros
+2016,108,Sant Andreu,barri,renta_tributaria_barri,,,35692,euros
+2016,70,la Sagrera,barri,renta_tributaria_barri,,,34103,euros
+2016,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,32667,euros
+2016,129,Navas,barri,renta_tributaria_barri,,,34449,euros
+2016,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,33997,euros
+2016,102,el Clot,barri,renta_tributaria_barri,,,35654,euros
+2016,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,36005,euros
+2016,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,57847,euros
+2016,114,el Poblenou,barri,renta_tributaria_barri,,,36713,euros
+2016,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,41994,euros
+2016,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,26030,euros
+2016,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,34194,euros
+2016,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,32263,euros
+2016,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,30739,euros
+2017,65,el Raval,barri,renta_tributaria_barri,,,24384,euros
+2017,66,el Barri Gòtic,barri,renta_tributaria_barri,,,27260,euros
+2017,67,la Barceloneta,barri,renta_tributaria_barri,,,24598,euros
+2017,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,27413,euros
+2017,96,el Fort Pienc,barri,renta_tributaria_barri,,,38720,euros
+2017,88,la Sagrada Família,barri,renta_tributaria_barri,,,37015,euros
+2017,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,48726,euros
+2017,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,43671,euros
+2017,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,41768,euros
+2017,118,Sant Antoni,barri,renta_tributaria_barri,,,36604,euros
+2017,68,el Poble Sec,barri,renta_tributaria_barri,,,28262,euros
+2017,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,23996,euros
+2017,80,la Marina de Port,barri,renta_tributaria_barri,,,30550,euros
+2017,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,34313,euros
+2017,131,Hostafrancs,barri,renta_tributaria_barri,,,33039,euros
+2017,123,la Bordeta,barri,renta_tributaria_barri,,,33973,euros
+2017,121,Sants-Badal,barri,renta_tributaria_barri,,,32332,euros
+2017,83,Sants,barri,renta_tributaria_barri,,,35418,euros
+2017,76,les Corts,barri,renta_tributaria_barri,,,48631,euros
+2017,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,45013,euros
+2017,112,Pedralbes,barri,renta_tributaria_barri,,,72879,euros
+2017,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,55163,euros
+2017,119,Sarrià,barri,renta_tributaria_barri,,,65593,euros
+2017,116,les Tres Torres,barri,renta_tributaria_barri,,,78071,euros
+2017,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,66618,euros
+2017,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,65251,euros
+2017,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,48868,euros
+2017,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,44653,euros
+2017,84,el Coll,barri,renta_tributaria_barri,,,33540,euros
+2017,101,la Salut,barri,renta_tributaria_barri,,,41879,euros
+2017,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,35224,euros
+2017,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,39965,euros
+2017,69,el Baix Guinardó,barri,renta_tributaria_barri,,,35397,euros
+2017,134,Can Baró,barri,renta_tributaria_barri,,,33597,euros
+2017,63,el Guinardó,barri,renta_tributaria_barri,,,34636,euros
+2017,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,43983,euros
+2017,87,el Carmel,barri,renta_tributaria_barri,,,26405,euros
+2017,113,la Teixonera,barri,renta_tributaria_barri,,,28894,euros
+2017,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,31703,euros
+2017,82,Montbau,barri,renta_tributaria_barri,,,32080,euros
+2017,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,38519,euros
+2017,136,la Clota,barri,renta_tributaria_barri,,,31423,euros
+2017,79,Horta,barri,renta_tributaria_barri,,,35199,euros
+2017,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,32969,euros
+2017,77,Porta,barri,renta_tributaria_barri,,,29489,euros
+2017,122,el Turó de la Peira,barri,renta_tributaria_barri,,,25694,euros
+2017,127,Can Peguera,barri,renta_tributaria_barri,,,22874,euros
+2017,91,la Guineueta,barri,renta_tributaria_barri,,,33734,euros
+2017,89,Canyelles,barri,renta_tributaria_barri,,,32120,euros
+2017,104,les Roquetes,barri,renta_tributaria_barri,,,24776,euros
+2017,120,Verdun,barri,renta_tributaria_barri,,,24266,euros
+2017,71,la Prosperitat,barri,renta_tributaria_barri,,,27270,euros
+2017,128,la Trinitat Nova,barri,renta_tributaria_barri,,,22475,euros
+2017,94,Torre Baró,barri,renta_tributaria_barri,,,24730,euros
+2017,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,22440,euros
+2017,93,Vallbona,barri,renta_tributaria_barri,,,23377,euros
+2017,92,la Trinitat Vella,barri,renta_tributaria_barri,,,24959,euros
+2017,130,Baró de Viver,barri,renta_tributaria_barri,,,22480,euros
+2017,98,el Bon Pastor,barri,renta_tributaria_barri,,,29757,euros
+2017,108,Sant Andreu,barri,renta_tributaria_barri,,,36187,euros
+2017,70,la Sagrera,barri,renta_tributaria_barri,,,34649,euros
+2017,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,33401,euros
+2017,129,Navas,barri,renta_tributaria_barri,,,34597,euros
+2017,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,34491,euros
+2017,102,el Clot,barri,renta_tributaria_barri,,,35898,euros
+2017,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,36728,euros
+2017,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,58186,euros
+2017,114,el Poblenou,barri,renta_tributaria_barri,,,37580,euros
+2017,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,42796,euros
+2017,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,26329,euros
+2017,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,34855,euros
+2017,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,32754,euros
+2017,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,30946,euros
+2018,65,el Raval,barri,renta_tributaria_barri,,,25486,euros
+2018,66,el Barri Gòtic,barri,renta_tributaria_barri,,,28268,euros
+2018,67,la Barceloneta,barri,renta_tributaria_barri,,,25867,euros
+2018,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,29068,euros
+2018,96,el Fort Pienc,barri,renta_tributaria_barri,,,40135,euros
+2018,88,la Sagrada Família,barri,renta_tributaria_barri,,,38589,euros
+2018,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,50301,euros
+2018,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,45818,euros
+2018,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,43444,euros
+2018,118,Sant Antoni,barri,renta_tributaria_barri,,,37814,euros
+2018,68,el Poble Sec,barri,renta_tributaria_barri,,,29486,euros
+2018,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,25133,euros
+2018,80,la Marina de Port,barri,renta_tributaria_barri,,,31797,euros
+2018,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,35476,euros
+2018,131,Hostafrancs,barri,renta_tributaria_barri,,,34300,euros
+2018,123,la Bordeta,barri,renta_tributaria_barri,,,35222,euros
+2018,121,Sants-Badal,barri,renta_tributaria_barri,,,34122,euros
+2018,83,Sants,barri,renta_tributaria_barri,,,37164,euros
+2018,76,les Corts,barri,renta_tributaria_barri,,,50564,euros
+2018,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,46891,euros
+2018,112,Pedralbes,barri,renta_tributaria_barri,,,78200,euros
+2018,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,57888,euros
+2018,119,Sarrià,barri,renta_tributaria_barri,,,70871,euros
+2018,116,les Tres Torres,barri,renta_tributaria_barri,,,85165,euros
+2018,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,70071,euros
+2018,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,69660,euros
+2018,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,51454,euros
+2018,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,46878,euros
+2018,84,el Coll,barri,renta_tributaria_barri,,,34866,euros
+2018,101,la Salut,barri,renta_tributaria_barri,,,43096,euros
+2018,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,37167,euros
+2018,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,41332,euros
+2018,69,el Baix Guinardó,barri,renta_tributaria_barri,,,36953,euros
+2018,134,Can Baró,barri,renta_tributaria_barri,,,34471,euros
+2018,63,el Guinardó,barri,renta_tributaria_barri,,,35880,euros
+2018,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,44567,euros
+2018,87,el Carmel,barri,renta_tributaria_barri,,,27612,euros
+2018,113,la Teixonera,barri,renta_tributaria_barri,,,29765,euros
+2018,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,33229,euros
+2018,82,Montbau,barri,renta_tributaria_barri,,,33379,euros
+2018,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,39970,euros
+2018,136,la Clota,barri,renta_tributaria_barri,,,34749,euros
+2018,79,Horta,barri,renta_tributaria_barri,,,36517,euros
+2018,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,34394,euros
+2018,77,Porta,barri,renta_tributaria_barri,,,30717,euros
+2018,122,el Turó de la Peira,barri,renta_tributaria_barri,,,26950,euros
+2018,127,Can Peguera,barri,renta_tributaria_barri,,,23706,euros
+2018,91,la Guineueta,barri,renta_tributaria_barri,,,35173,euros
+2018,89,Canyelles,barri,renta_tributaria_barri,,,33269,euros
+2018,104,les Roquetes,barri,renta_tributaria_barri,,,25644,euros
+2018,120,Verdun,barri,renta_tributaria_barri,,,25169,euros
+2018,71,la Prosperitat,barri,renta_tributaria_barri,,,28387,euros
+2018,128,la Trinitat Nova,barri,renta_tributaria_barri,,,23609,euros
+2018,94,Torre Baró,barri,renta_tributaria_barri,,,26252,euros
+2018,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,23696,euros
+2018,93,Vallbona,barri,renta_tributaria_barri,,,25549,euros
+2018,92,la Trinitat Vella,barri,renta_tributaria_barri,,,26113,euros
+2018,130,Baró de Viver,barri,renta_tributaria_barri,,,23632,euros
+2018,98,el Bon Pastor,barri,renta_tributaria_barri,,,30851,euros
+2018,108,Sant Andreu,barri,renta_tributaria_barri,,,37776,euros
+2018,70,la Sagrera,barri,renta_tributaria_barri,,,35729,euros
+2018,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,34979,euros
+2018,129,Navas,barri,renta_tributaria_barri,,,36035,euros
+2018,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,35964,euros
+2018,102,el Clot,barri,renta_tributaria_barri,,,37621,euros
+2018,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,37730,euros
+2018,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,60499,euros
+2018,114,el Poblenou,barri,renta_tributaria_barri,,,39014,euros
+2018,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,44903,euros
+2018,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,27623,euros
+2018,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,36295,euros
+2018,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,33762,euros
+2018,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,31907,euros
+2019,65,el Raval,barri,renta_tributaria_barri,,,26816,euros
+2019,66,el Barri Gòtic,barri,renta_tributaria_barri,,,30316,euros
+2019,67,la Barceloneta,barri,renta_tributaria_barri,,,27120,euros
+2019,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,30889,euros
+2019,96,el Fort Pienc,barri,renta_tributaria_barri,,,41891,euros
+2019,88,la Sagrada Família,barri,renta_tributaria_barri,,,40191,euros
+2019,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,53166,euros
+2019,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,47510,euros
+2019,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,44836,euros
+2019,118,Sant Antoni,barri,renta_tributaria_barri,,,40029,euros
+2019,68,el Poble Sec,barri,renta_tributaria_barri,,,31326,euros
+2019,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,24679,euros
+2019,80,la Marina de Port,barri,renta_tributaria_barri,,,33004,euros
+2019,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,36922,euros
+2019,131,Hostafrancs,barri,renta_tributaria_barri,,,35898,euros
+2019,123,la Bordeta,barri,renta_tributaria_barri,,,36958,euros
+2019,121,Sants-Badal,barri,renta_tributaria_barri,,,35572,euros
+2019,83,Sants,barri,renta_tributaria_barri,,,38644,euros
+2019,76,les Corts,barri,renta_tributaria_barri,,,52217,euros
+2019,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,48476,euros
+2019,112,Pedralbes,barri,renta_tributaria_barri,,,78256,euros
+2019,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,63634,euros
+2019,119,Sarrià,barri,renta_tributaria_barri,,,72154,euros
+2019,116,les Tres Torres,barri,renta_tributaria_barri,,,85942,euros
+2019,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,72464,euros
+2019,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,69071,euros
+2019,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,52969,euros
+2019,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,47610,euros
+2019,84,el Coll,barri,renta_tributaria_barri,,,37135,euros
+2019,101,la Salut,barri,renta_tributaria_barri,,,44728,euros
+2019,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,38862,euros
+2019,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,43263,euros
+2019,69,el Baix Guinardó,barri,renta_tributaria_barri,,,38741,euros
+2019,134,Can Baró,barri,renta_tributaria_barri,,,35983,euros
+2019,63,el Guinardó,barri,renta_tributaria_barri,,,37351,euros
+2019,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,46178,euros
+2019,87,el Carmel,barri,renta_tributaria_barri,,,28794,euros
+2019,113,la Teixonera,barri,renta_tributaria_barri,,,30637,euros
+2019,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,33696,euros
+2019,82,Montbau,barri,renta_tributaria_barri,,,35036,euros
+2019,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,41045,euros
+2019,136,la Clota,barri,renta_tributaria_barri,,,35571,euros
+2019,79,Horta,barri,renta_tributaria_barri,,,37648,euros
+2019,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,35824,euros
+2019,77,Porta,barri,renta_tributaria_barri,,,31687,euros
+2019,122,el Turó de la Peira,barri,renta_tributaria_barri,,,28065,euros
+2019,127,Can Peguera,barri,renta_tributaria_barri,,,24541,euros
+2019,91,la Guineueta,barri,renta_tributaria_barri,,,35919,euros
+2019,89,Canyelles,barri,renta_tributaria_barri,,,34657,euros
+2019,104,les Roquetes,barri,renta_tributaria_barri,,,26817,euros
+2019,120,Verdun,barri,renta_tributaria_barri,,,26338,euros
+2019,71,la Prosperitat,barri,renta_tributaria_barri,,,29608,euros
+2019,128,la Trinitat Nova,barri,renta_tributaria_barri,,,25084,euros
+2019,94,Torre Baró,barri,renta_tributaria_barri,,,27498,euros
+2019,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,25067,euros
+2019,93,Vallbona,barri,renta_tributaria_barri,,,26316,euros
+2019,92,la Trinitat Vella,barri,renta_tributaria_barri,,,27343,euros
+2019,130,Baró de Viver,barri,renta_tributaria_barri,,,24600,euros
+2019,98,el Bon Pastor,barri,renta_tributaria_barri,,,32207,euros
+2019,108,Sant Andreu,barri,renta_tributaria_barri,,,39011,euros
+2019,70,la Sagrera,barri,renta_tributaria_barri,,,37020,euros
+2019,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,36632,euros
+2019,129,Navas,barri,renta_tributaria_barri,,,37326,euros
+2019,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,36946,euros
+2019,102,el Clot,barri,renta_tributaria_barri,,,38601,euros
+2019,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,39566,euros
+2019,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,62144,euros
+2019,114,el Poblenou,barri,renta_tributaria_barri,,,41412,euros
+2019,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,47086,euros
+2019,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,28615,euros
+2019,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,37505,euros
+2019,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,35230,euros
+2019,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,33283,euros
+2020,65,el Raval,barri,renta_tributaria_barri,,,25529,euros
+2020,66,el Barri Gòtic,barri,renta_tributaria_barri,,,29373,euros
+2020,67,la Barceloneta,barri,renta_tributaria_barri,,,26512,euros
+2020,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,29938,euros
+2020,96,el Fort Pienc,barri,renta_tributaria_barri,,,41525,euros
+2020,88,la Sagrada Família,barri,renta_tributaria_barri,,,39911,euros
+2020,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,50895,euros
+2020,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,47295,euros
+2020,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,44641,euros
+2020,118,Sant Antoni,barri,renta_tributaria_barri,,,39567,euros
+2020,68,el Poble Sec,barri,renta_tributaria_barri,,,30882,euros
+2020,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,26484,euros
+2020,80,la Marina de Port,barri,renta_tributaria_barri,,,32716,euros
+2020,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,36877,euros
+2020,131,Hostafrancs,barri,renta_tributaria_barri,,,35159,euros
+2020,123,la Bordeta,barri,renta_tributaria_barri,,,36836,euros
+2020,121,Sants-Badal,barri,renta_tributaria_barri,,,35387,euros
+2020,83,Sants,barri,renta_tributaria_barri,,,38533,euros
+2020,76,les Corts,barri,renta_tributaria_barri,,,51442,euros
+2020,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,47500,euros
+2020,112,Pedralbes,barri,renta_tributaria_barri,,,77021,euros
+2020,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,57231,euros
+2020,119,Sarrià,barri,renta_tributaria_barri,,,68950,euros
+2020,116,les Tres Torres,barri,renta_tributaria_barri,,,83860,euros
+2020,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,70252,euros
+2020,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,67860,euros
+2020,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,49877,euros
+2020,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,47276,euros
+2020,84,el Coll,barri,renta_tributaria_barri,,,36441,euros
+2020,101,la Salut,barri,renta_tributaria_barri,,,44593,euros
+2020,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,39106,euros
+2020,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,42858,euros
+2020,69,el Baix Guinardó,barri,renta_tributaria_barri,,,38212,euros
+2020,134,Can Baró,barri,renta_tributaria_barri,,,36351,euros
+2020,63,el Guinardó,barri,renta_tributaria_barri,,,37076,euros
+2020,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,46192,euros
+2020,87,el Carmel,barri,renta_tributaria_barri,,,28485,euros
+2020,113,la Teixonera,barri,renta_tributaria_barri,,,30908,euros
+2020,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,33676,euros
+2020,82,Montbau,barri,renta_tributaria_barri,,,35395,euros
+2020,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,42122,euros
+2020,136,la Clota,barri,renta_tributaria_barri,,,35432,euros
+2020,79,Horta,barri,renta_tributaria_barri,,,38164,euros
+2020,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,35371,euros
+2020,77,Porta,barri,renta_tributaria_barri,,,31524,euros
+2020,122,el Turó de la Peira,barri,renta_tributaria_barri,,,28065,euros
+2020,127,Can Peguera,barri,renta_tributaria_barri,,,23634,euros
+2020,91,la Guineueta,barri,renta_tributaria_barri,,,36316,euros
+2020,89,Canyelles,barri,renta_tributaria_barri,,,34682,euros
+2020,104,les Roquetes,barri,renta_tributaria_barri,,,26677,euros
+2020,120,Verdun,barri,renta_tributaria_barri,,,26093,euros
+2020,71,la Prosperitat,barri,renta_tributaria_barri,,,29501,euros
+2020,128,la Trinitat Nova,barri,renta_tributaria_barri,,,24726,euros
+2020,94,Torre Baró,barri,renta_tributaria_barri,,,26528,euros
+2020,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,24758,euros
+2020,93,Vallbona,barri,renta_tributaria_barri,,,26436,euros
+2020,92,la Trinitat Vella,barri,renta_tributaria_barri,,,27181,euros
+2020,130,Baró de Viver,barri,renta_tributaria_barri,,,24834,euros
+2020,98,el Bon Pastor,barri,renta_tributaria_barri,,,31973,euros
+2020,108,Sant Andreu,barri,renta_tributaria_barri,,,39099,euros
+2020,70,la Sagrera,barri,renta_tributaria_barri,,,37395,euros
+2020,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,36006,euros
+2020,129,Navas,barri,renta_tributaria_barri,,,37401,euros
+2020,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,37184,euros
+2020,102,el Clot,barri,renta_tributaria_barri,,,38266,euros
+2020,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,40049,euros
+2020,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,60041,euros
+2020,114,el Poblenou,barri,renta_tributaria_barri,,,41234,euros
+2020,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,46975,euros
+2020,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,28633,euros
+2020,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,37407,euros
+2020,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,35020,euros
+2020,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,33242,euros
+2021,65,el Raval,barri,renta_tributaria_barri,,,27037,euros
+2021,66,el Barri Gòtic,barri,renta_tributaria_barri,,,30513,euros
+2021,67,la Barceloneta,barri,renta_tributaria_barri,,,27357,euros
+2021,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,31033,euros
+2021,96,el Fort Pienc,barri,renta_tributaria_barri,,,42808,euros
+2021,88,la Sagrada Família,barri,renta_tributaria_barri,,,40778,euros
+2021,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,51777,euros
+2021,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,48039,euros
+2021,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,45801,euros
+2021,118,Sant Antoni,barri,renta_tributaria_barri,,,41033,euros
+2021,68,el Poble Sec,barri,renta_tributaria_barri,,,32225,euros
+2021,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,27935,euros
+2021,80,la Marina de Port,barri,renta_tributaria_barri,,,34053,euros
+2021,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,37951,euros
+2021,131,Hostafrancs,barri,renta_tributaria_barri,,,36569,euros
+2021,123,la Bordeta,barri,renta_tributaria_barri,,,37854,euros
+2021,121,Sants-Badal,barri,renta_tributaria_barri,,,36515,euros
+2021,83,Sants,barri,renta_tributaria_barri,,,39563,euros
+2021,76,les Corts,barri,renta_tributaria_barri,,,52317,euros
+2021,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,48459,euros
+2021,112,Pedralbes,barri,renta_tributaria_barri,,,75384,euros
+2021,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,61825,euros
+2021,119,Sarrià,barri,renta_tributaria_barri,,,70652,euros
+2021,116,les Tres Torres,barri,renta_tributaria_barri,,,82454,euros
+2021,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,68574,euros
+2021,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,68533,euros
+2021,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,53229,euros
+2021,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,48491,euros
+2021,84,el Coll,barri,renta_tributaria_barri,,,37585,euros
+2021,101,la Salut,barri,renta_tributaria_barri,,,46108,euros
+2021,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,40220,euros
+2021,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,44016,euros
+2021,69,el Baix Guinardó,barri,renta_tributaria_barri,,,39564,euros
+2021,134,Can Baró,barri,renta_tributaria_barri,,,37370,euros
+2021,63,el Guinardó,barri,renta_tributaria_barri,,,38261,euros
+2021,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,47993,euros
+2021,87,el Carmel,barri,renta_tributaria_barri,,,29555,euros
+2021,113,la Teixonera,barri,renta_tributaria_barri,,,32257,euros
+2021,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,34626,euros
+2021,82,Montbau,barri,renta_tributaria_barri,,,36333,euros
+2021,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,42569,euros
+2021,136,la Clota,barri,renta_tributaria_barri,,,37234,euros
+2021,79,Horta,barri,renta_tributaria_barri,,,38852,euros
+2021,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,36600,euros
+2021,77,Porta,barri,renta_tributaria_barri,,,31870,euros
+2021,122,el Turó de la Peira,barri,renta_tributaria_barri,,,29063,euros
+2021,127,Can Peguera,barri,renta_tributaria_barri,,,24768,euros
+2021,91,la Guineueta,barri,renta_tributaria_barri,,,37252,euros
+2021,89,Canyelles,barri,renta_tributaria_barri,,,35878,euros
+2021,104,les Roquetes,barri,renta_tributaria_barri,,,27467,euros
+2021,120,Verdun,barri,renta_tributaria_barri,,,27022,euros
+2021,71,la Prosperitat,barri,renta_tributaria_barri,,,30473,euros
+2021,128,la Trinitat Nova,barri,renta_tributaria_barri,,,26022,euros
+2021,94,Torre Baró,barri,renta_tributaria_barri,,,28939,euros
+2021,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,25808,euros
+2021,93,Vallbona,barri,renta_tributaria_barri,,,27854,euros
+2021,92,la Trinitat Vella,barri,renta_tributaria_barri,,,28440,euros
+2021,130,Baró de Viver,barri,renta_tributaria_barri,,,26023,euros
+2021,98,el Bon Pastor,barri,renta_tributaria_barri,,,33462,euros
+2021,108,Sant Andreu,barri,renta_tributaria_barri,,,40273,euros
+2021,70,la Sagrera,barri,renta_tributaria_barri,,,38087,euros
+2021,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,37356,euros
+2021,129,Navas,barri,renta_tributaria_barri,,,38469,euros
+2021,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,38076,euros
+2021,102,el Clot,barri,renta_tributaria_barri,,,40170,euros
+2021,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,40953,euros
+2021,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,61893,euros
+2021,114,el Poblenou,barri,renta_tributaria_barri,,,42883,euros
+2021,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,46816,euros
+2021,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,29956,euros
+2021,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,38874,euros
+2021,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,36274,euros
+2021,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,34606,euros
+2022,65,el Raval,barri,renta_tributaria_barri,,,29105,euros
+2022,66,el Barri Gòtic,barri,renta_tributaria_barri,,,32130,euros
+2022,67,la Barceloneta,barri,renta_tributaria_barri,,,29094,euros
+2022,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,33535,euros
+2022,96,el Fort Pienc,barri,renta_tributaria_barri,,,45367,euros
+2022,88,la Sagrada Família,barri,renta_tributaria_barri,,,43150,euros
+2022,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,56260,euros
+2022,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,51065,euros
+2022,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,47875,euros
+2022,118,Sant Antoni,barri,renta_tributaria_barri,,,43340,euros
+2022,68,el Poble Sec,barri,renta_tributaria_barri,,,34224,euros
+2022,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,30218,euros
+2022,80,la Marina de Port,barri,renta_tributaria_barri,,,35566,euros
+2022,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,40159,euros
+2022,131,Hostafrancs,barri,renta_tributaria_barri,,,38370,euros
+2022,123,la Bordeta,barri,renta_tributaria_barri,,,39867,euros
+2022,121,Sants-Badal,barri,renta_tributaria_barri,,,37861,euros
+2022,83,Sants,barri,renta_tributaria_barri,,,41661,euros
+2022,76,les Corts,barri,renta_tributaria_barri,,,54901,euros
+2022,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,50656,euros
+2022,112,Pedralbes,barri,renta_tributaria_barri,,,83294,euros
+2022,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,67298,euros
+2022,119,Sarrià,barri,renta_tributaria_barri,,,75933,euros
+2022,116,les Tres Torres,barri,renta_tributaria_barri,,,91501,euros
+2022,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,76154,euros
+2022,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,74518,euros
+2022,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,55649,euros
+2022,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,52049,euros
+2022,84,el Coll,barri,renta_tributaria_barri,,,39542,euros
+2022,101,la Salut,barri,renta_tributaria_barri,,,47988,euros
+2022,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,42265,euros
+2022,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,46110,euros
+2022,69,el Baix Guinardó,barri,renta_tributaria_barri,,,41445,euros
+2022,134,Can Baró,barri,renta_tributaria_barri,,,39129,euros
+2022,63,el Guinardó,barri,renta_tributaria_barri,,,40141,euros
+2022,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,51106,euros
+2022,87,el Carmel,barri,renta_tributaria_barri,,,30944,euros
+2022,113,la Teixonera,barri,renta_tributaria_barri,,,33426,euros
+2022,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,36039,euros
+2022,82,Montbau,barri,renta_tributaria_barri,,,38305,euros
+2022,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,44533,euros
+2022,136,la Clota,barri,renta_tributaria_barri,,,40693,euros
+2022,79,Horta,barri,renta_tributaria_barri,,,40562,euros
+2022,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,38061,euros
+2022,77,Porta,barri,renta_tributaria_barri,,,34023,euros
+2022,122,el Turó de la Peira,barri,renta_tributaria_barri,,,30819,euros
+2022,127,Can Peguera,barri,renta_tributaria_barri,,,26100,euros
+2022,91,la Guineueta,barri,renta_tributaria_barri,,,38716,euros
+2022,89,Canyelles,barri,renta_tributaria_barri,,,37416,euros
+2022,104,les Roquetes,barri,renta_tributaria_barri,,,28791,euros
+2022,120,Verdun,barri,renta_tributaria_barri,,,28440,euros
+2022,71,la Prosperitat,barri,renta_tributaria_barri,,,31940,euros
+2022,128,la Trinitat Nova,barri,renta_tributaria_barri,,,27799,euros
+2022,94,Torre Baró,barri,renta_tributaria_barri,,,29234,euros
+2022,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,27076,euros
+2022,93,Vallbona,barri,renta_tributaria_barri,,,28878,euros
+2022,92,la Trinitat Vella,barri,renta_tributaria_barri,,,29675,euros
+2022,130,Baró de Viver,barri,renta_tributaria_barri,,,27751,euros
+2022,98,el Bon Pastor,barri,renta_tributaria_barri,,,34874,euros
+2022,108,Sant Andreu,barri,renta_tributaria_barri,,,41869,euros
+2022,70,la Sagrera,barri,renta_tributaria_barri,,,39807,euros
+2022,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,39238,euros
+2022,129,Navas,barri,renta_tributaria_barri,,,40026,euros
+2022,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,40363,euros
+2022,102,el Clot,barri,renta_tributaria_barri,,,41911,euros
+2022,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,43409,euros
+2022,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,67251,euros
+2022,114,el Poblenou,barri,renta_tributaria_barri,,,45487,euros
+2022,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,50248,euros
+2022,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,31359,euros
+2022,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,40670,euros
+2022,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,37774,euros
+2022,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,35843,euros
+2023,65,el Raval,barri,renta_tributaria_barri,,,31773,euros
+2023,66,el Barri Gòtic,barri,renta_tributaria_barri,,,37357,euros
+2023,67,la Barceloneta,barri,renta_tributaria_barri,,,32354,euros
+2023,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_tributaria_barri,,,36722,euros
+2023,96,el Fort Pienc,barri,renta_tributaria_barri,,,49056,euros
+2023,88,la Sagrada Família,barri,renta_tributaria_barri,,,45871,euros
+2023,106,la Dreta de l'Eixample,barri,renta_tributaria_barri,,,61948,euros
+2023,72,l'Antiga Esquerra de l'Eixample,barri,renta_tributaria_barri,,,56214,euros
+2023,117,la Nova Esquerra de l'Eixample,barri,renta_tributaria_barri,,,51603,euros
+2023,118,Sant Antoni,barri,renta_tributaria_barri,,,46634,euros
+2023,68,el Poble Sec,barri,renta_tributaria_barri,,,37072,euros
+2023,73,la Marina del Prat Vermell,barri,renta_tributaria_barri,,,34296,euros
+2023,80,la Marina de Port,barri,renta_tributaria_barri,,,37746,euros
+2023,103,la Font de la Guatlla,barri,renta_tributaria_barri,,,43223,euros
+2023,131,Hostafrancs,barri,renta_tributaria_barri,,,40886,euros
+2023,123,la Bordeta,barri,renta_tributaria_barri,,,42402,euros
+2023,121,Sants-Badal,barri,renta_tributaria_barri,,,40738,euros
+2023,83,Sants,barri,renta_tributaria_barri,,,44485,euros
+2023,76,les Corts,barri,renta_tributaria_barri,,,58676,euros
+2023,81,la Maternitat i Sant Ramon,barri,renta_tributaria_barri,,,54231,euros
+2023,112,Pedralbes,barri,renta_tributaria_barri,,,92172,euros
+2023,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_tributaria_barri,,,72478,euros
+2023,119,Sarrià,barri,renta_tributaria_barri,,,80944,euros
+2023,116,les Tres Torres,barri,renta_tributaria_barri,,,97921,euros
+2023,85,Sant Gervasi- la Bonanova,barri,renta_tributaria_barri,,,83717,euros
+2023,111,Sant Gervasi- Galvany,barri,renta_tributaria_barri,,,81126,euros
+2023,124,el Putxet i el Farró,barri,renta_tributaria_barri,,,61334,euros
+2023,95,Vallcarca i els Penitents,barri,renta_tributaria_barri,,,55698,euros
+2023,84,el Coll,barri,renta_tributaria_barri,,,42586,euros
+2023,101,la Salut,barri,renta_tributaria_barri,,,51637,euros
+2023,86,la Vila de Gràcia,barri,renta_tributaria_barri,,,45986,euros
+2023,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_tributaria_barri,,,49117,euros
+2023,69,el Baix Guinardó,barri,renta_tributaria_barri,,,44628,euros
+2023,134,Can Baró,barri,renta_tributaria_barri,,,42229,euros
+2023,63,el Guinardó,barri,renta_tributaria_barri,,,43041,euros
+2023,75,la Font d'en Fargues,barri,renta_tributaria_barri,,,55178,euros
+2023,87,el Carmel,barri,renta_tributaria_barri,,,33525,euros
+2023,113,la Teixonera,barri,renta_tributaria_barri,,,36842,euros
+2023,132,Sant Genís dels Agudells,barri,renta_tributaria_barri,,,38819,euros
+2023,82,Montbau,barri,renta_tributaria_barri,,,39768,euros
+2023,97,la Vall d'Hebron,barri,renta_tributaria_barri,,,46867,euros
+2023,136,la Clota,barri,renta_tributaria_barri,,,42723,euros
+2023,79,Horta,barri,renta_tributaria_barri,,,43265,euros
+2023,107,Vilapicina i la Torre Llobeta,barri,renta_tributaria_barri,,,40555,euros
+2023,77,Porta,barri,renta_tributaria_barri,,,36579,euros
+2023,122,el Turó de la Peira,barri,renta_tributaria_barri,,,33182,euros
+2023,127,Can Peguera,barri,renta_tributaria_barri,,,27184,euros
+2023,91,la Guineueta,barri,renta_tributaria_barri,,,40781,euros
+2023,89,Canyelles,barri,renta_tributaria_barri,,,39161,euros
+2023,104,les Roquetes,barri,renta_tributaria_barri,,,31292,euros
+2023,120,Verdun,barri,renta_tributaria_barri,,,31109,euros
+2023,71,la Prosperitat,barri,renta_tributaria_barri,,,34570,euros
+2023,128,la Trinitat Nova,barri,renta_tributaria_barri,,,29325,euros
+2023,94,Torre Baró,barri,renta_tributaria_barri,,,32030,euros
+2023,100,Ciutat Meridiana,barri,renta_tributaria_barri,,,29289,euros
+2023,93,Vallbona,barri,renta_tributaria_barri,,,31422,euros
+2023,92,la Trinitat Vella,barri,renta_tributaria_barri,,,32504,euros
+2023,130,Baró de Viver,barri,renta_tributaria_barri,,,29878,euros
+2023,98,el Bon Pastor,barri,renta_tributaria_barri,,,37686,euros
+2023,108,Sant Andreu,barri,renta_tributaria_barri,,,44414,euros
+2023,70,la Sagrera,barri,renta_tributaria_barri,,,42422,euros
+2023,109,el Congrés i els Indians,barri,renta_tributaria_barri,,,41925,euros
+2023,129,Navas,barri,renta_tributaria_barri,,,43073,euros
+2023,78,el Camp de l'Arpa del Clot,barri,renta_tributaria_barri,,,42898,euros
+2023,102,el Clot,barri,renta_tributaria_barri,,,44884,euros
+2023,64,el Parc i la Llacuna del Poblenou,barri,renta_tributaria_barri,,,47309,euros
+2023,99,la Vila Olímpica del Poblenou,barri,renta_tributaria_barri,,,71714,euros
+2023,114,el Poblenou,barri,renta_tributaria_barri,,,49448,euros
+2023,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_tributaria_barri,,,54099,euros
+2023,126,el Besòs i el Maresme,barri,renta_tributaria_barri,,,33481,euros
+2023,110,Provençals del Poblenou,barri,renta_tributaria_barri,,,43473,euros
+2023,105,Sant Martí de Provençals,barri,renta_tributaria_barri,,,40048,euros
+2023,74,la Verneda i la Pau,barri,renta_tributaria_barri,,,37891,euros
+2015,65,el Raval,barri,renta_disponible_barri,,,11835,euros
+2015,66,el Barri Gòtic,barri,renta_disponible_barri,,,15616,euros
+2015,67,la Barceloneta,barri,renta_disponible_barri,,,14988,euros
+2015,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,16014,euros
+2015,96,el Fort Pienc,barri,renta_disponible_barri,,,21241,euros
+2015,88,la Sagrada Família,barri,renta_disponible_barri,,,21223,euros
+2015,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,26468,euros
+2015,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,24555,euros
+2015,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,23502,euros
+2015,118,Sant Antoni,barri,renta_disponible_barri,,,20585,euros
+2015,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,15324,euros
+2015,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,12284,euros
+2015,80,la Marina de Port,barri,renta_disponible_barri,,,15979,euros
+2015,103,la Font de la Guatlla,barri,renta_disponible_barri,,,19398,euros
+2015,131,Hostafrancs,barri,renta_disponible_barri,,,18568,euros
+2015,123,la Bordeta,barri,renta_disponible_barri,,,18624,euros
+2015,121,Sants - Badal,barri,renta_disponible_barri,,,18450,euros
+2015,83,Sants,barri,renta_disponible_barri,,,20261,euros
+2015,76,les Corts,barri,renta_disponible_barri,,,26168,euros
+2015,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,23707,euros
+2015,112,Pedralbes,barri,renta_disponible_barri,,,34169,euros
+2015,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,23824,euros
+2015,119,Sarrià,barri,renta_disponible_barri,,,30066,euros
+2015,116,les Tres Torres,barri,renta_disponible_barri,,,35505,euros
+2015,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,30549,euros
+2015,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,31511,euros
+2015,124,el Putxet i el Farró,barri,renta_disponible_barri,,,26010,euros
+2015,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,24674,euros
+2015,84,el Coll,barri,renta_disponible_barri,,,18857,euros
+2015,101,la Salut,barri,renta_disponible_barri,,,23013,euros
+2015,86,la Vila de Gràcia,barri,renta_disponible_barri,,,21118,euros
+2015,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,22975,euros
+2015,69,el Baix Guinardó,barri,renta_disponible_barri,,,20433,euros
+2015,134,Can Baró,barri,renta_disponible_barri,,,18700,euros
+2015,63,el Guinardó,barri,renta_disponible_barri,,,19807,euros
+2015,75,la Font d'en Fargues,barri,renta_disponible_barri,,,22862,euros
+2015,87,el Carmel,barri,renta_disponible_barri,,,14457,euros
+2015,113,la Teixonera,barri,renta_disponible_barri,,,16127,euros
+2015,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,17491,euros
+2015,82,Montbau,barri,renta_disponible_barri,,,19091,euros
+2015,97,la Vall d'Hebron,barri,renta_disponible_barri,,,21139,euros
+2015,136,la Clota,barri,renta_disponible_barri,,,17412,euros
+2015,79,Horta,barri,renta_disponible_barri,,,19085,euros
+2015,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,18442,euros
+2015,77,Porta,barri,renta_disponible_barri,,,16688,euros
+2015,122,el Turó de la Peira,barri,renta_disponible_barri,,,13981,euros
+2015,127,Can Peguera,barri,renta_disponible_barri,,,12159,euros
+2015,91,la Guineueta,barri,renta_disponible_barri,,,18282,euros
+2015,89,Canyelles,barri,renta_disponible_barri,,,17417,euros
+2015,104,les Roquetes,barri,renta_disponible_barri,,,12623,euros
+2015,120,Verdun,barri,renta_disponible_barri,,,13555,euros
+2015,71,la Prosperitat,barri,renta_disponible_barri,,,15161,euros
+2015,128,la Trinitat Nova,barri,renta_disponible_barri,,,11442,euros
+2015,94,Torre Baró,barri,renta_disponible_barri,,,10480,euros
+2015,100,Ciutat Meridiana,barri,renta_disponible_barri,,,10511,euros
+2015,93,Vallbona,barri,renta_disponible_barri,,,11475,euros
+2015,92,la Trinitat Vella,barri,renta_disponible_barri,,,11937,euros
+2015,130,Baró de Viver,barri,renta_disponible_barri,,,11012,euros
+2015,98,el Bon Pastor,barri,renta_disponible_barri,,,14813,euros
+2015,108,Sant Andreu,barri,renta_disponible_barri,,,20205,euros
+2015,70,la Sagrera,barri,renta_disponible_barri,,,18835,euros
+2015,109,el Congrés i els Indians,barri,renta_disponible_barri,,,18709,euros
+2015,129,Navas,barri,renta_disponible_barri,,,18992,euros
+2015,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,19679,euros
+2015,102,el Clot,barri,renta_disponible_barri,,,19308,euros
+2015,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,20439,euros
+2015,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,30201,euros
+2015,114,el Poblenou,barri,renta_disponible_barri,,,20388,euros
+2015,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,22781,euros
+2015,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,13112,euros
+2015,110,Provençals del Poblenou,barri,renta_disponible_barri,,,18153,euros
+2015,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,17761,euros
+2015,74,la Verneda i la Pau,barri,renta_disponible_barri,,,16304,euros
+2016,65,el Raval,barri,renta_disponible_barri,,,12020,euros
+2016,66,el Barri Gòtic,barri,renta_disponible_barri,,,16065,euros
+2016,67,la Barceloneta,barri,renta_disponible_barri,,,15181,euros
+2016,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,16796,euros
+2016,96,el Fort Pienc,barri,renta_disponible_barri,,,21707,euros
+2016,88,la Sagrada Família,barri,renta_disponible_barri,,,21576,euros
+2016,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,28506,euros
+2016,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,25643,euros
+2016,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,24117,euros
+2016,118,Sant Antoni,barri,renta_disponible_barri,,,21341,euros
+2016,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,15562,euros
+2016,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,12604,euros
+2016,80,la Marina de Port,barri,renta_disponible_barri,,,16097,euros
+2016,103,la Font de la Guatlla,barri,renta_disponible_barri,,,19552,euros
+2016,131,Hostafrancs,barri,renta_disponible_barri,,,18891,euros
+2016,123,la Bordeta,barri,renta_disponible_barri,,,18913,euros
+2016,121,Sants - Badal,barri,renta_disponible_barri,,,18390,euros
+2016,83,Sants,barri,renta_disponible_barri,,,20687,euros
+2016,76,les Corts,barri,renta_disponible_barri,,,27518,euros
+2016,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,24723,euros
+2016,112,Pedralbes,barri,renta_disponible_barri,,,36872,euros
+2016,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,26780,euros
+2016,119,Sarrià,barri,renta_disponible_barri,,,32761,euros
+2016,116,les Tres Torres,barri,renta_disponible_barri,,,38446,euros
+2016,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,32825,euros
+2016,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,34029,euros
+2016,124,el Putxet i el Farró,barri,renta_disponible_barri,,,27757,euros
+2016,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,25337,euros
+2016,84,el Coll,barri,renta_disponible_barri,,,19111,euros
+2016,101,la Salut,barri,renta_disponible_barri,,,23547,euros
+2016,86,la Vila de Gràcia,barri,renta_disponible_barri,,,21933,euros
+2016,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,23657,euros
+2016,69,el Baix Guinardó,barri,renta_disponible_barri,,,20659,euros
+2016,134,Can Baró,barri,renta_disponible_barri,,,19002,euros
+2016,63,el Guinardó,barri,renta_disponible_barri,,,20155,euros
+2016,75,la Font d'en Fargues,barri,renta_disponible_barri,,,24108,euros
+2016,87,el Carmel,barri,renta_disponible_barri,,,14603,euros
+2016,113,la Teixonera,barri,renta_disponible_barri,,,16319,euros
+2016,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,16997,euros
+2016,82,Montbau,barri,renta_disponible_barri,,,18995,euros
+2016,97,la Vall d'Hebron,barri,renta_disponible_barri,,,21777,euros
+2016,136,la Clota,barri,renta_disponible_barri,,,19304,euros
+2016,79,Horta,barri,renta_disponible_barri,,,19483,euros
+2016,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,18645,euros
+2016,77,Porta,barri,renta_disponible_barri,,,16759,euros
+2016,122,el Turó de la Peira,barri,renta_disponible_barri,,,14067,euros
+2016,127,Can Peguera,barri,renta_disponible_barri,,,12459,euros
+2016,91,la Guineueta,barri,renta_disponible_barri,,,18262,euros
+2016,89,Canyelles,barri,renta_disponible_barri,,,17623,euros
+2016,104,les Roquetes,barri,renta_disponible_barri,,,12620,euros
+2016,120,Verdun,barri,renta_disponible_barri,,,13539,euros
+2016,71,la Prosperitat,barri,renta_disponible_barri,,,15098,euros
+2016,128,la Trinitat Nova,barri,renta_disponible_barri,,,11598,euros
+2016,94,Torre Baró,barri,renta_disponible_barri,,,10423,euros
+2016,100,Ciutat Meridiana,barri,renta_disponible_barri,,,10226,euros
+2016,93,Vallbona,barri,renta_disponible_barri,,,11511,euros
+2016,92,la Trinitat Vella,barri,renta_disponible_barri,,,12103,euros
+2016,130,Baró de Viver,barri,renta_disponible_barri,,,11420,euros
+2016,98,el Bon Pastor,barri,renta_disponible_barri,,,15010,euros
+2016,108,Sant Andreu,barri,renta_disponible_barri,,,20447,euros
+2016,70,la Sagrera,barri,renta_disponible_barri,,,19110,euros
+2016,109,el Congrés i els Indians,barri,renta_disponible_barri,,,18879,euros
+2016,129,Navas,barri,renta_disponible_barri,,,19374,euros
+2016,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,20067,euros
+2016,102,el Clot,barri,renta_disponible_barri,,,19724,euros
+2016,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,20888,euros
+2016,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,30254,euros
+2016,114,el Poblenou,barri,renta_disponible_barri,,,20763,euros
+2016,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,23361,euros
+2016,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,13175,euros
+2016,110,Provençals del Poblenou,barri,renta_disponible_barri,,,18700,euros
+2016,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,17900,euros
+2016,74,la Verneda i la Pau,barri,renta_disponible_barri,,,16461,euros
+2017,65,el Raval,barri,renta_disponible_barri,,,12559,euros
+2017,66,el Barri Gòtic,barri,renta_disponible_barri,,,16742,euros
+2017,67,la Barceloneta,barri,renta_disponible_barri,,,15534,euros
+2017,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,17405,euros
+2017,96,el Fort Pienc,barri,renta_disponible_barri,,,22062,euros
+2017,88,la Sagrada Família,barri,renta_disponible_barri,,,21596,euros
+2017,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,28876,euros
+2017,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,26351,euros
+2017,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,24319,euros
+2017,118,Sant Antoni,barri,renta_disponible_barri,,,21638,euros
+2017,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,15909,euros
+2017,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,13202,euros
+2017,80,la Marina de Port,barri,renta_disponible_barri,,,16053,euros
+2017,103,la Font de la Guatlla,barri,renta_disponible_barri,,,19845,euros
+2017,131,Hostafrancs,barri,renta_disponible_barri,,,18991,euros
+2017,123,la Bordeta,barri,renta_disponible_barri,,,19027,euros
+2017,121,Sants - Badal,barri,renta_disponible_barri,,,18358,euros
+2017,83,Sants,barri,renta_disponible_barri,,,20671,euros
+2017,76,les Corts,barri,renta_disponible_barri,,,27507,euros
+2017,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,24743,euros
+2017,112,Pedralbes,barri,renta_disponible_barri,,,37623,euros
+2017,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,26309,euros
+2017,119,Sarrià,barri,renta_disponible_barri,,,33842,euros
+2017,116,les Tres Torres,barri,renta_disponible_barri,,,40050,euros
+2017,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,34553,euros
+2017,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,35485,euros
+2017,124,el Putxet i el Farró,barri,renta_disponible_barri,,,28184,euros
+2017,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,25076,euros
+2017,84,el Coll,barri,renta_disponible_barri,,,19344,euros
+2017,101,la Salut,barri,renta_disponible_barri,,,23984,euros
+2017,86,la Vila de Gràcia,barri,renta_disponible_barri,,,22294,euros
+2017,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,23672,euros
+2017,69,el Baix Guinardó,barri,renta_disponible_barri,,,20488,euros
+2017,134,Can Baró,barri,renta_disponible_barri,,,19193,euros
+2017,63,el Guinardó,barri,renta_disponible_barri,,,20031,euros
+2017,75,la Font d'en Fargues,barri,renta_disponible_barri,,,23854,euros
+2017,87,el Carmel,barri,renta_disponible_barri,,,14695,euros
+2017,113,la Teixonera,barri,renta_disponible_barri,,,16418,euros
+2017,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,17514,euros
+2017,82,Montbau,barri,renta_disponible_barri,,,18827,euros
+2017,97,la Vall d'Hebron,barri,renta_disponible_barri,,,21601,euros
+2017,136,la Clota,barri,renta_disponible_barri,,,18152,euros
+2017,79,Horta,barri,renta_disponible_barri,,,19686,euros
+2017,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,18471,euros
+2017,77,Porta,barri,renta_disponible_barri,,,16611,euros
+2017,122,el Turó de la Peira,barri,renta_disponible_barri,,,13956,euros
+2017,127,Can Peguera,barri,renta_disponible_barri,,,12527,euros
+2017,91,la Guineueta,barri,renta_disponible_barri,,,18339,euros
+2017,89,Canyelles,barri,renta_disponible_barri,,,17258,euros
+2017,104,les Roquetes,barri,renta_disponible_barri,,,12779,euros
+2017,120,Verdun,barri,renta_disponible_barri,,,13616,euros
+2017,71,la Prosperitat,barri,renta_disponible_barri,,,15163,euros
+2017,128,la Trinitat Nova,barri,renta_disponible_barri,,,11846,euros
+2017,94,Torre Baró,barri,renta_disponible_barri,,,10822,euros
+2017,100,Ciutat Meridiana,barri,renta_disponible_barri,,,10336,euros
+2017,93,Vallbona,barri,renta_disponible_barri,,,11607,euros
+2017,92,la Trinitat Vella,barri,renta_disponible_barri,,,12167,euros
+2017,130,Baró de Viver,barri,renta_disponible_barri,,,11524,euros
+2017,98,el Bon Pastor,barri,renta_disponible_barri,,,15051,euros
+2017,108,Sant Andreu,barri,renta_disponible_barri,,,20300,euros
+2017,70,la Sagrera,barri,renta_disponible_barri,,,19054,euros
+2017,109,el Congrés i els Indians,barri,renta_disponible_barri,,,18886,euros
+2017,129,Navas,barri,renta_disponible_barri,,,19313,euros
+2017,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,19999,euros
+2017,102,el Clot,barri,renta_disponible_barri,,,19549,euros
+2017,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,21044,euros
+2017,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,30124,euros
+2017,114,el Poblenou,barri,renta_disponible_barri,,,20949,euros
+2017,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,23001,euros
+2017,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,13204,euros
+2017,110,Provençals del Poblenou,barri,renta_disponible_barri,,,18706,euros
+2017,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,17966,euros
+2017,74,la Verneda i la Pau,barri,renta_disponible_barri,,,16339,euros
+2018,65,el Raval,barri,renta_disponible_barri,,,12753,euros
+2018,66,el Barri Gòtic,barri,renta_disponible_barri,,,16950,euros
+2018,67,la Barceloneta,barri,renta_disponible_barri,,,15873,euros
+2018,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,17841,euros
+2018,96,el Fort Pienc,barri,renta_disponible_barri,,,22206,euros
+2018,88,la Sagrada Família,barri,renta_disponible_barri,,,21908,euros
+2018,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,28838,euros
+2018,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,26761,euros
+2018,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,24628,euros
+2018,118,Sant Antoni,barri,renta_disponible_barri,,,21683,euros
+2018,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,16129,euros
+2018,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,13298,euros
+2018,80,la Marina de Port,barri,renta_disponible_barri,,,16339,euros
+2018,103,la Font de la Guatlla,barri,renta_disponible_barri,,,19989,euros
+2018,131,Hostafrancs,barri,renta_disponible_barri,,,19177,euros
+2018,123,la Bordeta,barri,renta_disponible_barri,,,19224,euros
+2018,121,Sants - Badal,barri,renta_disponible_barri,,,18868,euros
+2018,83,Sants,barri,renta_disponible_barri,,,21178,euros
+2018,76,les Corts,barri,renta_disponible_barri,,,27770,euros
+2018,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,25057,euros
+2018,112,Pedralbes,barri,renta_disponible_barri,,,38523,euros
+2018,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,26781,euros
+2018,119,Sarrià,barri,renta_disponible_barri,,,35015,euros
+2018,116,les Tres Torres,barri,renta_disponible_barri,,,40698,euros
+2018,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,35166,euros
+2018,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,36371,euros
+2018,124,el Putxet i el Farró,barri,renta_disponible_barri,,,28524,euros
+2018,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,25532,euros
+2018,84,el Coll,barri,renta_disponible_barri,,,19528,euros
+2018,101,la Salut,barri,renta_disponible_barri,,,24001,euros
+2018,86,la Vila de Gràcia,barri,renta_disponible_barri,,,22839,euros
+2018,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,23870,euros
+2018,69,el Baix Guinardó,barri,renta_disponible_barri,,,20818,euros
+2018,134,Can Baró,barri,renta_disponible_barri,,,19264,euros
+2018,63,el Guinardó,barri,renta_disponible_barri,,,20269,euros
+2018,75,la Font d'en Fargues,barri,renta_disponible_barri,,,23565,euros
+2018,87,el Carmel,barri,renta_disponible_barri,,,15044,euros
+2018,113,la Teixonera,barri,renta_disponible_barri,,,16556,euros
+2018,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,17707,euros
+2018,82,Montbau,barri,renta_disponible_barri,,,19094,euros
+2018,97,la Vall d'Hebron,barri,renta_disponible_barri,,,21850,euros
+2018,136,la Clota,barri,renta_disponible_barri,,,19045,euros
+2018,79,Horta,barri,renta_disponible_barri,,,19953,euros
+2018,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,18744,euros
+2018,77,Porta,barri,renta_disponible_barri,,,16837,euros
+2018,122,el Turó de la Peira,barri,renta_disponible_barri,,,14348,euros
+2018,127,Can Peguera,barri,renta_disponible_barri,,,12952,euros
+2018,91,la Guineueta,barri,renta_disponible_barri,,,18664,euros
+2018,89,Canyelles,barri,renta_disponible_barri,,,17596,euros
+2018,104,les Roquetes,barri,renta_disponible_barri,,,12846,euros
+2018,120,Verdun,barri,renta_disponible_barri,,,13872,euros
+2018,71,la Prosperitat,barri,renta_disponible_barri,,,15419,euros
+2018,128,la Trinitat Nova,barri,renta_disponible_barri,,,11972,euros
+2018,94,Torre Baró,barri,renta_disponible_barri,,,11332,euros
+2018,100,Ciutat Meridiana,barri,renta_disponible_barri,,,10689,euros
+2018,93,Vallbona,barri,renta_disponible_barri,,,12332,euros
+2018,92,la Trinitat Vella,barri,renta_disponible_barri,,,12326,euros
+2018,130,Baró de Viver,barri,renta_disponible_barri,,,11954,euros
+2018,98,el Bon Pastor,barri,renta_disponible_barri,,,15336,euros
+2018,108,Sant Andreu,barri,renta_disponible_barri,,,20712,euros
+2018,70,la Sagrera,barri,renta_disponible_barri,,,19194,euros
+2018,109,el Congrés i els Indians,barri,renta_disponible_barri,,,19146,euros
+2018,129,Navas,barri,renta_disponible_barri,,,19650,euros
+2018,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,20224,euros
+2018,102,el Clot,barri,renta_disponible_barri,,,20017,euros
+2018,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,21057,euros
+2018,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,30286,euros
+2018,114,el Poblenou,barri,renta_disponible_barri,,,21124,euros
+2018,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,23546,euros
+2018,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,13434,euros
+2018,110,Provençals del Poblenou,barri,renta_disponible_barri,,,18827,euros
+2018,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,18110,euros
+2018,74,la Verneda i la Pau,barri,renta_disponible_barri,,,16505,euros
+2019,65,el Raval,barri,renta_disponible_barri,,,13125,euros
+2019,66,el Barri Gòtic,barri,renta_disponible_barri,,,17674,euros
+2019,67,la Barceloneta,barri,renta_disponible_barri,,,16590,euros
+2019,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,18683,euros
+2019,96,el Fort Pienc,barri,renta_disponible_barri,,,23317,euros
+2019,88,la Sagrada Família,barri,renta_disponible_barri,,,22847,euros
+2019,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,30939,euros
+2019,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,27970,euros
+2019,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,25755,euros
+2019,118,Sant Antoni,barri,renta_disponible_barri,,,22849,euros
+2019,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,16889,euros
+2019,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,13346,euros
+2019,80,la Marina de Port,barri,renta_disponible_barri,,,16884,euros
+2019,103,la Font de la Guatlla,barri,renta_disponible_barri,,,20759,euros
+2019,131,Hostafrancs,barri,renta_disponible_barri,,,20082,euros
+2019,123,la Bordeta,barri,renta_disponible_barri,,,20258,euros
+2019,121,Sants - Badal,barri,renta_disponible_barri,,,19449,euros
+2019,83,Sants,barri,renta_disponible_barri,,,22012,euros
+2019,76,les Corts,barri,renta_disponible_barri,,,29346,euros
+2019,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,26493,euros
+2019,112,Pedralbes,barri,renta_disponible_barri,,,40343,euros
+2019,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,31036,euros
+2019,119,Sarrià,barri,renta_disponible_barri,,,37252,euros
+2019,116,les Tres Torres,barri,renta_disponible_barri,,,43488,euros
+2019,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,38008,euros
+2019,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,38468,euros
+2019,124,el Putxet i el Farró,barri,renta_disponible_barri,,,30244,euros
+2019,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,26421,euros
+2019,84,el Coll,barri,renta_disponible_barri,,,20894,euros
+2019,101,la Salut,barri,renta_disponible_barri,,,25543,euros
+2019,86,la Vila de Gràcia,barri,renta_disponible_barri,,,24038,euros
+2019,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,25301,euros
+2019,69,el Baix Guinardó,barri,renta_disponible_barri,,,22052,euros
+2019,134,Can Baró,barri,renta_disponible_barri,,,20218,euros
+2019,63,el Guinardó,barri,renta_disponible_barri,,,21187,euros
+2019,75,la Font d'en Fargues,barri,renta_disponible_barri,,,24955,euros
+2019,87,el Carmel,barri,renta_disponible_barri,,,15539,euros
+2019,113,la Teixonera,barri,renta_disponible_barri,,,16936,euros
+2019,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,17911,euros
+2019,82,Montbau,barri,renta_disponible_barri,,,19935,euros
+2019,97,la Vall d'Hebron,barri,renta_disponible_barri,,,22629,euros
+2019,136,la Clota,barri,renta_disponible_barri,,,19283,euros
+2019,79,Horta,barri,renta_disponible_barri,,,20658,euros
+2019,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,19528,euros
+2019,77,Porta,barri,renta_disponible_barri,,,17294,euros
+2019,122,el Turó de la Peira,barri,renta_disponible_barri,,,14673,euros
+2019,127,Can Peguera,barri,renta_disponible_barri,,,13110,euros
+2019,91,la Guineueta,barri,renta_disponible_barri,,,19201,euros
+2019,89,Canyelles,barri,renta_disponible_barri,,,18373,euros
+2019,104,les Roquetes,barri,renta_disponible_barri,,,13166,euros
+2019,120,Verdun,barri,renta_disponible_barri,,,14155,euros
+2019,71,la Prosperitat,barri,renta_disponible_barri,,,15972,euros
+2019,128,la Trinitat Nova,barri,renta_disponible_barri,,,12384,euros
+2019,94,Torre Baró,barri,renta_disponible_barri,,,11701,euros
+2019,100,Ciutat Meridiana,barri,renta_disponible_barri,,,10811,euros
+2019,93,Vallbona,barri,renta_disponible_barri,,,12423,euros
+2019,92,la Trinitat Vella,barri,renta_disponible_barri,,,12582,euros
+2019,130,Baró de Viver,barri,renta_disponible_barri,,,12022,euros
+2019,98,el Bon Pastor,barri,renta_disponible_barri,,,15924,euros
+2019,108,Sant Andreu,barri,renta_disponible_barri,,,21565,euros
+2019,70,la Sagrera,barri,renta_disponible_barri,,,19938,euros
+2019,109,el Congrés i els Indians,barri,renta_disponible_barri,,,20079,euros
+2019,129,Navas,barri,renta_disponible_barri,,,20376,euros
+2019,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,20940,euros
+2019,102,el Clot,barri,renta_disponible_barri,,,20729,euros
+2019,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,22225,euros
+2019,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,32015,euros
+2019,114,el Poblenou,barri,renta_disponible_barri,,,22497,euros
+2019,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,25099,euros
+2019,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,13829,euros
+2019,110,Provençals del Poblenou,barri,renta_disponible_barri,,,19574,euros
+2019,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,18840,euros
+2019,74,la Verneda i la Pau,barri,renta_disponible_barri,,,17202,euros
+2020,65,el Raval,barri,renta_disponible_barri,,,11525,euros
+2020,66,el Barri Gòtic,barri,renta_disponible_barri,,,15715,euros
+2020,67,la Barceloneta,barri,renta_disponible_barri,,,15096,euros
+2020,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,16903,euros
+2020,96,el Fort Pienc,barri,renta_disponible_barri,,,21570,euros
+2020,88,la Sagrada Família,barri,renta_disponible_barri,,,21308,euros
+2020,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,27758,euros
+2020,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,26154,euros
+2020,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,24136,euros
+2020,118,Sant Antoni,barri,renta_disponible_barri,,,21102,euros
+2020,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,15585,euros
+2020,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,13510,euros
+2020,80,la Marina de Port,barri,renta_disponible_barri,,,15792,euros
+2020,103,la Font de la Guatlla,barri,renta_disponible_barri,,,19660,euros
+2020,131,Hostafrancs,barri,renta_disponible_barri,,,18547,euros
+2020,123,la Bordeta,barri,renta_disponible_barri,,,18955,euros
+2020,121,Sants - Badal,barri,renta_disponible_barri,,,18216,euros
+2020,83,Sants,barri,renta_disponible_barri,,,20707,euros
+2020,76,les Corts,barri,renta_disponible_barri,,,27422,euros
+2020,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,24499,euros
+2020,112,Pedralbes,barri,renta_disponible_barri,,,37271,euros
+2020,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,25877,euros
+2020,119,Sarrià,barri,renta_disponible_barri,,,33673,euros
+2020,116,les Tres Torres,barri,renta_disponible_barri,,,39501,euros
+2020,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,34548,euros
+2020,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,34885,euros
+2020,124,el Putxet i el Farró,barri,renta_disponible_barri,,,27677,euros
+2020,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,24612,euros
+2020,84,el Coll,barri,renta_disponible_barri,,,19258,euros
+2020,101,la Salut,barri,renta_disponible_barri,,,23841,euros
+2020,86,la Vila de Gràcia,barri,renta_disponible_barri,,,22703,euros
+2020,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,23502,euros
+2020,69,el Baix Guinardó,barri,renta_disponible_barri,,,20417,euros
+2020,134,Can Baró,barri,renta_disponible_barri,,,19248,euros
+2020,63,el Guinardó,barri,renta_disponible_barri,,,19830,euros
+2020,75,la Font d'en Fargues,barri,renta_disponible_barri,,,23632,euros
+2020,87,el Carmel,barri,renta_disponible_barri,,,14415,euros
+2020,113,la Teixonera,barri,renta_disponible_barri,,,15953,euros
+2020,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,16882,euros
+2020,82,Montbau,barri,renta_disponible_barri,,,18775,euros
+2020,97,la Vall d'Hebron,barri,renta_disponible_barri,,,21796,euros
+2020,136,la Clota,barri,renta_disponible_barri,,,18628,euros
+2020,79,Horta,barri,renta_disponible_barri,,,19794,euros
+2020,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,18310,euros
+2020,77,Porta,barri,renta_disponible_barri,,,16281,euros
+2020,122,el Turó de la Peira,barri,renta_disponible_barri,,,13709,euros
+2020,127,Can Peguera,barri,renta_disponible_barri,,,12190,euros
+2020,91,la Guineueta,barri,renta_disponible_barri,,,18287,euros
+2020,89,Canyelles,barri,renta_disponible_barri,,,17356,euros
+2020,104,les Roquetes,barri,renta_disponible_barri,,,12323,euros
+2020,120,Verdun,barri,renta_disponible_barri,,,13272,euros
+2020,71,la Prosperitat,barri,renta_disponible_barri,,,14990,euros
+2020,128,la Trinitat Nova,barri,renta_disponible_barri,,,11672,euros
+2020,94,Torre Baró,barri,renta_disponible_barri,,,10846,euros
+2020,100,Ciutat Meridiana,barri,renta_disponible_barri,,,9977,euros
+2020,93,Vallbona,barri,renta_disponible_barri,,,11481,euros
+2020,92,la Trinitat Vella,barri,renta_disponible_barri,,,11687,euros
+2020,130,Baró de Viver,barri,renta_disponible_barri,,,11464,euros
+2020,98,el Bon Pastor,barri,renta_disponible_barri,,,14766,euros
+2020,108,Sant Andreu,barri,renta_disponible_barri,,,20341,euros
+2020,70,la Sagrera,barri,renta_disponible_barri,,,18980,euros
+2020,109,el Congrés i els Indians,barri,renta_disponible_barri,,,18594,euros
+2020,129,Navas,barri,renta_disponible_barri,,,19256,euros
+2020,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,19908,euros
+2020,102,el Clot,barri,renta_disponible_barri,,,19398,euros
+2020,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,21146,euros
+2020,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,29146,euros
+2020,114,el Poblenou,barri,renta_disponible_barri,,,21113,euros
+2020,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,23599,euros
+2020,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,12916,euros
+2020,110,Provençals del Poblenou,barri,renta_disponible_barri,,,18452,euros
+2020,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,17583,euros
+2020,74,la Verneda i la Pau,barri,renta_disponible_barri,,,16171,euros
+2021,65,el Raval,barri,renta_disponible_barri,,,12956,euros
+2021,66,el Barri Gòtic,barri,renta_disponible_barri,,,16791,euros
+2021,67,la Barceloneta,barri,renta_disponible_barri,,,16873,euros
+2021,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,18133,euros
+2021,96,el Fort Pienc,barri,renta_disponible_barri,,,22959,euros
+2021,88,la Sagrada Família,barri,renta_disponible_barri,,,22558,euros
+2021,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,27694,euros
+2021,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,26736,euros
+2021,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,25401,euros
+2021,118,Sant Antoni,barri,renta_disponible_barri,,,22483,euros
+2021,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,17110,euros
+2021,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,15058,euros
+2021,80,la Marina de Port,barri,renta_disponible_barri,,,17408,euros
+2021,103,la Font de la Guatlla,barri,renta_disponible_barri,,,20853,euros
+2021,131,Hostafrancs,barri,renta_disponible_barri,,,20041,euros
+2021,123,la Bordeta,barri,renta_disponible_barri,,,20478,euros
+2021,121,Sants - Badal,barri,renta_disponible_barri,,,19824,euros
+2021,83,Sants,barri,renta_disponible_barri,,,22067,euros
+2021,76,les Corts,barri,renta_disponible_barri,,,27960,euros
+2021,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,25351,euros
+2021,112,Pedralbes,barri,renta_disponible_barri,,,35019,euros
+2021,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,27205,euros
+2021,119,Sarrià,barri,renta_disponible_barri,,,33021,euros
+2021,116,les Tres Torres,barri,renta_disponible_barri,,,37935,euros
+2021,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,34065,euros
+2021,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,33967,euros
+2021,124,el Putxet i el Farró,barri,renta_disponible_barri,,,28536,euros
+2021,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,25749,euros
+2021,84,el Coll,barri,renta_disponible_barri,,,20484,euros
+2021,101,la Salut,barri,renta_disponible_barri,,,24960,euros
+2021,86,la Vila de Gràcia,barri,renta_disponible_barri,,,23704,euros
+2021,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,24754,euros
+2021,69,el Baix Guinardó,barri,renta_disponible_barri,,,21770,euros
+2021,134,Can Baró,barri,renta_disponible_barri,,,20365,euros
+2021,63,el Guinardó,barri,renta_disponible_barri,,,21157,euros
+2021,75,la Font d'en Fargues,barri,renta_disponible_barri,,,24968,euros
+2021,87,el Carmel,barri,renta_disponible_barri,,,15812,euros
+2021,113,la Teixonera,barri,renta_disponible_barri,,,17266,euros
+2021,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,18132,euros
+2021,82,Montbau,barri,renta_disponible_barri,,,20214,euros
+2021,97,la Vall d'Hebron,barri,renta_disponible_barri,,,22678,euros
+2021,136,la Clota,barri,renta_disponible_barri,,,20465,euros
+2021,79,Horta,barri,renta_disponible_barri,,,20784,euros
+2021,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,19747,euros
+2021,77,Porta,barri,renta_disponible_barri,,,17487,euros
+2021,122,el Turó de la Peira,barri,renta_disponible_barri,,,14978,euros
+2021,127,Can Peguera,barri,renta_disponible_barri,,,13608,euros
+2021,91,la Guineueta,barri,renta_disponible_barri,,,19701,euros
+2021,89,Canyelles,barri,renta_disponible_barri,,,18837,euros
+2021,104,les Roquetes,barri,renta_disponible_barri,,,13515,euros
+2021,120,Verdun,barri,renta_disponible_barri,,,14545,euros
+2021,71,la Prosperitat,barri,renta_disponible_barri,,,16352,euros
+2021,128,la Trinitat Nova,barri,renta_disponible_barri,,,13004,euros
+2021,94,Torre Baró,barri,renta_disponible_barri,,,12400,euros
+2021,100,Ciutat Meridiana,barri,renta_disponible_barri,,,11190,euros
+2021,93,Vallbona,barri,renta_disponible_barri,,,12891,euros
+2021,92,la Trinitat Vella,barri,renta_disponible_barri,,,12938,euros
+2021,130,Baró de Viver,barri,renta_disponible_barri,,,12816,euros
+2021,98,el Bon Pastor,barri,renta_disponible_barri,,,16423,euros
+2021,108,Sant Andreu,barri,renta_disponible_barri,,,21839,euros
+2021,70,la Sagrera,barri,renta_disponible_barri,,,20221,euros
+2021,109,el Congrés i els Indians,barri,renta_disponible_barri,,,20315,euros
+2021,129,Navas,barri,renta_disponible_barri,,,20727,euros
+2021,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,21251,euros
+2021,102,el Clot,barri,renta_disponible_barri,,,21383,euros
+2021,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,22433,euros
+2021,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,30113,euros
+2021,114,el Poblenou,barri,renta_disponible_barri,,,22632,euros
+2021,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,24135,euros
+2021,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,14335,euros
+2021,110,Provençals del Poblenou,barri,renta_disponible_barri,,,19875,euros
+2021,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,19032,euros
+2021,74,la Verneda i la Pau,barri,renta_disponible_barri,,,17583,euros
+2022,65,el Raval,barri,renta_disponible_barri,,,14221,euros
+2022,66,el Barri Gòtic,barri,renta_disponible_barri,,,18668,euros
+2022,67,la Barceloneta,barri,renta_disponible_barri,,,17966,euros
+2022,90,"Sant Pere, Santa Caterina i la Ribera",barri,renta_disponible_barri,,,19655,euros
+2022,96,el Fort Pienc,barri,renta_disponible_barri,,,24163,euros
+2022,88,la Sagrada Família,barri,renta_disponible_barri,,,23513,euros
+2022,106,la Dreta de l'Eixample,barri,renta_disponible_barri,,,29815,euros
+2022,72,l'Antiga Esquerra de l'Eixample,barri,renta_disponible_barri,,,28278,euros
+2022,117,la Nova Esquerra de l'Eixample,barri,renta_disponible_barri,,,26256,euros
+2022,118,Sant Antoni,barri,renta_disponible_barri,,,23588,euros
+2022,68,el Poble Sec - AEI Parc Montjuïc,barri,renta_disponible_barri,,,18346,euros
+2022,73,la Marina del Prat Vermell - AEI Zona Franca,barri,renta_disponible_barri,,,16015,euros
+2022,80,la Marina de Port,barri,renta_disponible_barri,,,18088,euros
+2022,103,la Font de la Guatlla,barri,renta_disponible_barri,,,21889,euros
+2022,131,Hostafrancs,barri,renta_disponible_barri,,,21022,euros
+2022,123,la Bordeta,barri,renta_disponible_barri,,,21270,euros
+2022,121,Sants - Badal,barri,renta_disponible_barri,,,20366,euros
+2022,83,Sants,barri,renta_disponible_barri,,,22917,euros
+2022,76,les Corts,barri,renta_disponible_barri,,,29115,euros
+2022,81,la Maternitat i Sant Ramon,barri,renta_disponible_barri,,,26100,euros
+2022,112,Pedralbes,barri,renta_disponible_barri,,,37845,euros
+2022,133,"Vallvidrera, el Tibidabo i les Planes",barri,renta_disponible_barri,,,29595,euros
+2022,119,Sarrià,barri,renta_disponible_barri,,,35446,euros
+2022,116,les Tres Torres,barri,renta_disponible_barri,,,41344,euros
+2022,85,Sant Gervasi - la Bonanova,barri,renta_disponible_barri,,,36110,euros
+2022,111,Sant Gervasi - Galvany,barri,renta_disponible_barri,,,36283,euros
+2022,124,el Putxet i el Farró,barri,renta_disponible_barri,,,29461,euros
+2022,95,Vallcarca i els Penitents,barri,renta_disponible_barri,,,27251,euros
+2022,84,el Coll,barri,renta_disponible_barri,,,21390,euros
+2022,101,la Salut,barri,renta_disponible_barri,,,25761,euros
+2022,86,la Vila de Gràcia,barri,renta_disponible_barri,,,24766,euros
+2022,125,el Camp d'en Grassot i Gràcia Nova,barri,renta_disponible_barri,,,25730,euros
+2022,69,el Baix Guinardó,barri,renta_disponible_barri,,,22595,euros
+2022,134,Can Baró,barri,renta_disponible_barri,,,20986,euros
+2022,63,el Guinardó,barri,renta_disponible_barri,,,21836,euros
+2022,75,la Font d'en Fargues,barri,renta_disponible_barri,,,26166,euros
+2022,87,el Carmel,barri,renta_disponible_barri,,,16395,euros
+2022,113,la Teixonera,barri,renta_disponible_barri,,,17841,euros
+2022,132,Sant Genís dels Agudells,barri,renta_disponible_barri,,,18556,euros
+2022,82,Montbau,barri,renta_disponible_barri,,,21025,euros
+2022,97,la Vall d'Hebron,barri,renta_disponible_barri,,,23393,euros
+2022,136,la Clota,barri,renta_disponible_barri,,,20747,euros
+2022,79,Horta,barri,renta_disponible_barri,,,21461,euros
+2022,107,Vilapicina i la Torre Llobeta,barri,renta_disponible_barri,,,20252,euros
+2022,77,Porta,barri,renta_disponible_barri,,,18259,euros
+2022,122,el Turó de la Peira,barri,renta_disponible_barri,,,15725,euros
+2022,127,Can Peguera,barri,renta_disponible_barri,,,14582,euros
+2022,91,la Guineueta,barri,renta_disponible_barri,,,20289,euros
+2022,89,Canyelles,barri,renta_disponible_barri,,,19593,euros
+2022,104,les Roquetes,barri,renta_disponible_barri,,,14023,euros
+2022,120,Verdun,barri,renta_disponible_barri,,,15139,euros
+2022,71,la Prosperitat,barri,renta_disponible_barri,,,16938,euros
+2022,128,la Trinitat Nova,barri,renta_disponible_barri,,,13793,euros
+2022,94,Torre Baró,barri,renta_disponible_barri,,,12819,euros
+2022,100,Ciutat Meridiana,barri,renta_disponible_barri,,,11796,euros
+2022,93,Vallbona,barri,renta_disponible_barri,,,13420,euros
+2022,92,la Trinitat Vella,barri,renta_disponible_barri,,,13546,euros
+2022,130,Baró de Viver,barri,renta_disponible_barri,,,13678,euros
+2022,98,el Bon Pastor,barri,renta_disponible_barri,,,16795,euros
+2022,108,Sant Andreu,barri,renta_disponible_barri,,,22393,euros
+2022,70,la Sagrera,barri,renta_disponible_barri,,,20804,euros
+2022,109,el Congrés i els Indians,barri,renta_disponible_barri,,,20848,euros
+2022,129,Navas,barri,renta_disponible_barri,,,21373,euros
+2022,78,el Camp de l'Arpa del Clot,barri,renta_disponible_barri,,,22370,euros
+2022,102,el Clot,barri,renta_disponible_barri,,,22036,euros
+2022,64,el Parc i la Llacuna del Poblenou,barri,renta_disponible_barri,,,23583,euros
+2022,99,la Vila Olímpica del Poblenou,barri,renta_disponible_barri,,,32088,euros
+2022,114,el Poblenou,barri,renta_disponible_barri,,,23771,euros
+2022,115,Diagonal Mar i el Front Marítim del Poblenou,barri,renta_disponible_barri,,,25315,euros
+2022,126,el Besòs i el Maresme,barri,renta_disponible_barri,,,15073,euros
+2022,110,Provençals del Poblenou,barri,renta_disponible_barri,,,20599,euros
+2022,105,Sant Martí de Provençals,barri,renta_disponible_barri,,,19696,euros
+2022,74,la Verneda i la Pau,barri,renta_disponible_barri,,,18177,euros

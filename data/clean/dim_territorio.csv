@@ -1,0 +1,142 @@
+id_territorio,cod_barri,nom_barri,cod_districte,nom_districte,municipio,provincia,ccaa,abp,region_policial,nivel_territorial,fuente
+1,,,,,,Cataluña,Cataluña,ABP Virtual,Regió Virtual,abp,mossos
+2,,,,,,Cataluña,Cataluña,ABP Osona,RP Central,abp,mossos
+3,,,,,,Cataluña,Cataluña,ABP Anoia,RP Central,abp,mossos
+4,,,,,,Cataluña,Cataluña,ABP Bages - Moianès,RP Central,abp,mossos
+5,,,,,,Cataluña,Cataluña,ABP Solsonès,RP Central,abp,mossos
+6,,,,,,Cataluña,Cataluña,ABP Berguedà,RP Central,abp,mossos
+7,,,,,,Cataluña,Cataluña,ABP Baix Ebre,RP Terres de l'Ebre,abp,mossos
+8,,,,,,Cataluña,Cataluña,ABP Terra Alta - Ribera d'Ebre,RP Terres de l'Ebre,abp,mossos
+9,,,,,,Cataluña,Cataluña,ABP Montsià,RP Terres de l'Ebre,abp,mossos
+10,,,,,,Cataluña,Cataluña,ABP Gironès - Pla de l'Estany,RP Girona,abp,mossos
+11,,,,,,Cataluña,Cataluña,ABP Alt Empordà - Figueres,RP Girona,abp,mossos
+12,,,,,,Cataluña,Cataluña,ABP Alt Empordà - Roses,RP Girona,abp,mossos
+13,,,,,,Cataluña,Cataluña,ABP Baix Empordà - La Bisbal,RP Girona,abp,mossos
+14,,,,,,Cataluña,Cataluña,ABP Baix Empordà - Sant Feliu,RP Girona,abp,mossos
+15,,,,,,Cataluña,Cataluña,ABP Garrotxa,RP Girona,abp,mossos
+16,,,,,,Cataluña,Cataluña,ABP Ripollès,RP Girona,abp,mossos
+17,,,,,,Cataluña,Cataluña,ABP Selva Litoral,RP Girona,abp,mossos
+18,,,,,,Cataluña,Cataluña,ABP Selva Interior,RP Girona,abp,mossos
+19,,,,,,Cataluña,Cataluña,ABP Sant Martí,RP Metropolitana Barcelona,abp,mossos
+20,,,,,,Cataluña,Cataluña,ABP Ciutat Vella,RP Metropolitana Barcelona,abp,mossos
+21,,,,,,Cataluña,Cataluña,ABP Eixample,RP Metropolitana Barcelona,abp,mossos
+22,,,,,,Cataluña,Cataluña,ABP Sants-Montjuïc,RP Metropolitana Barcelona,abp,mossos
+23,,,,,,Cataluña,Cataluña,ABP Les Corts,RP Metropolitana Barcelona,abp,mossos
+24,,,,,,Cataluña,Cataluña,ABP Sarrià-Sant Gervasi,RP Metropolitana Barcelona,abp,mossos
+25,,,,,,Cataluña,Cataluña,ABP Gràcia,RP Metropolitana Barcelona,abp,mossos
+26,,,,,,Cataluña,Cataluña,ABP Horta-Guinardó,RP Metropolitana Barcelona,abp,mossos
+27,,,,,,Cataluña,Cataluña,ABP Nou Barris,RP Metropolitana Barcelona,abp,mossos
+28,,,,,,Cataluña,Cataluña,ABP Sant Andreu,RP Metropolitana Barcelona,abp,mossos
+29,,,,,,Cataluña,Cataluña,ABP Barcelona,RP Metropolitana Barcelona,abp,mossos
+30,,,,,,Cataluña,Cataluña,ABP Alt Penedès,RP Metropolitana Sud,abp,mossos
+31,,,,,,Cataluña,Cataluña,ABP Martorell,RP Metropolitana Sud,abp,mossos
+32,,,,,,Cataluña,Cataluña,ABP Gavà,RP Metropolitana Sud,abp,mossos
+33,,,,,,Cataluña,Cataluña,ABP Sant Feliu de Llobregat,RP Metropolitana Sud,abp,mossos
+34,,,,,,Cataluña,Cataluña,ABP Garraf,RP Metropolitana Sud,abp,mossos
+35,,,,,,Cataluña,Cataluña,ABP l'Hospitalet de Llobregat,RP Metropolitana Sud,abp,mossos
+36,,,,,,Cataluña,Cataluña,ABP el Prat de Llobregat,RP Metropolitana Sud,abp,mossos
+37,,,,,,Cataluña,Cataluña,ABP Sant Boi de Llobregat,RP Metropolitana Sud,abp,mossos
+38,,,,,,Cataluña,Cataluña,ABP Cornellà de Llobregat,RP Metropolitana Sud,abp,mossos
+39,,,,,,Cataluña,Cataluña,ABP Esplugues de Llobregat,RP Metropolitana Sud,abp,mossos
+40,,,,,,Cataluña,Cataluña,ABP Arenys de Mar,RP  Metropolitana Nord,abp,mossos
+41,,,,,,Cataluña,Cataluña,ABP Mataró,RP  Metropolitana Nord,abp,mossos
+42,,,,,,Cataluña,Cataluña,ABP Premià de Mar,RP  Metropolitana Nord,abp,mossos
+43,,,,,,Cataluña,Cataluña,ABP Granollers,RP  Metropolitana Nord,abp,mossos
+44,,,,,,Cataluña,Cataluña,ABP Mollet del Vallès,RP  Metropolitana Nord,abp,mossos
+45,,,,,,Cataluña,Cataluña,ABP Badalona,RP  Metropolitana Nord,abp,mossos
+46,,,,,,Cataluña,Cataluña,ABP Cerdanyola,RP  Metropolitana Nord,abp,mossos
+47,,,,,,Cataluña,Cataluña,ABP Rubí,RP  Metropolitana Nord,abp,mossos
+48,,,,,,Cataluña,Cataluña,ABP Sabadell,RP  Metropolitana Nord,abp,mossos
+49,,,,,,Cataluña,Cataluña,ABP Terrassa,RP  Metropolitana Nord,abp,mossos
+50,,,,,,Cataluña,Cataluña,ABP Santa Coloma de Gramenet,RP  Metropolitana Nord,abp,mossos
+51,,,,,,Cataluña,Cataluña,ABP Alt Urgell,RP Alt Pirineu i Aran,abp,mossos
+52,,,,,,Cataluña,Cataluña,ABP Cerdanya,RP Alt Pirineu i Aran,abp,mossos
+53,,,,,,Cataluña,Cataluña,ABP Pallars Jussà - Pallars Sobirà,RP Alt Pirineu i Aran,abp,mossos
+54,,,,,,Cataluña,Cataluña,ABP Vall d'Aran - Alta Ribagorça,RP Alt Pirineu i Aran,abp,mossos
+55,,,,,,Cataluña,Cataluña,ABP Segrià,RP Ponent,abp,mossos
+56,,,,,,Cataluña,Cataluña,ABP Segarra - Urgell,RP Ponent,abp,mossos
+57,,,,,,Cataluña,Cataluña,ABP Noguera,RP Ponent,abp,mossos
+58,,,,,,Cataluña,Cataluña,ABP Pla d'Urgell - Garrigues,RP Ponent,abp,mossos
+59,,,,,,Cataluña,Cataluña,ABP Alt Camp - C. de Barberà,RP Camp de Tarragona,abp,mossos
+60,,,,,,Cataluña,Cataluña,ABP Baix Camp - Priorat,RP Camp de Tarragona,abp,mossos
+61,,,,,,Cataluña,Cataluña,ABP Baix Penedès,RP Camp de Tarragona,abp,mossos
+62,,,,,,Cataluña,Cataluña,ABP Tarragonès,RP Camp de Tarragona,abp,mossos
+63,35,el Guinardó,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+64,66,el Parc i la Llacuna del Poblenou,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+65,1,el Raval,1,Ciutat Vella,Barcelona,Barcelona,Cataluña,,,barri,gub
+66,2,el Barri Gòtic,1,Ciutat Vella,Barcelona,Barcelona,Cataluña,,,barri,gub
+67,3,la Barceloneta,1,Ciutat Vella,Barcelona,Barcelona,Cataluña,,,barri,gub
+68,11,el Poble Sec,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+69,33,el Baix Guinardó,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+70,61,la Sagrera,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+71,52,la Prosperitat,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+72,8,l'Antiga Esquerra de l'Eixample,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+73,12,la Marina del Prat Vermell,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+74,73,la Verneda i la Pau,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+75,36,la Font d'en Fargues,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+76,19,les Corts,4,Les Corts,Barcelona,Barcelona,Cataluña,,,barri,gub
+77,45,Porta,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+78,64,el Camp de l'Arpa del Clot,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+79,43,Horta,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+80,13,la Marina de Port,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+81,20,la Maternitat i Sant Ramon,4,Les Corts,Barcelona,Barcelona,Cataluña,,,barri,gub
+82,40,Montbau,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+83,18,Sants,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+84,29,el Coll,6,Gràcia,Barcelona,Barcelona,Cataluña,,,barri,gub
+85,25,Sant Gervasi - la Bonanova,5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+86,31,la Vila de Gràcia,6,Gràcia,Barcelona,Barcelona,Cataluña,,,barri,gub
+87,37,el Carmel,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+88,6,la Sagrada Família,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+89,49,Canyelles,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+90,4,"Sant Pere, Santa Caterina i la Ribera",1,Ciutat Vella,Barcelona,Barcelona,Cataluña,,,barri,gub
+91,48,la Guineueta,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+92,57,la Trinitat Vella,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+93,56,Vallbona,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+94,54,Torre Baró,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+95,28,Vallcarca i els Penitents,6,Gràcia,Barcelona,Barcelona,Cataluña,,,barri,gub
+96,5,el Fort Pienc,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+97,41,la Vall d'Hebron,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+98,59,el Bon Pastor,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+99,67,la Vila Olímpica del Poblenou,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+100,55,Ciutat Meridiana,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+101,30,la Salut,6,Gràcia,Barcelona,Barcelona,Cataluña,,,barri,gub
+102,65,el Clot,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+103,14,la Font de la Guatlla,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+104,50,les Roquetes,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+105,72,Sant Martí de Provençals,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+106,7,la Dreta de l'Eixample,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+107,44,Vilapicina i la Torre Llobeta,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+108,60,Sant Andreu,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+109,62,el Congrés i els Indians,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+110,71,Provençals del Poblenou,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+111,26,Sant Gervasi - Galvany,5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+112,21,Pedralbes,4,Les Corts,Barcelona,Barcelona,Cataluña,,,barri,gub
+113,38,la Teixonera,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+114,68,el Poblenou,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+115,69,Diagonal Mar i el Front Marítim del Poblenou,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+116,24,les Tres Torres,5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+117,9,la Nova Esquerra de l'Eixample,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+118,10,Sant Antoni,2,Eixample,Barcelona,Barcelona,Cataluña,,,barri,gub
+119,23,Sarrià,5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+120,51,Verdun,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+121,17,Sants - Badal,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+122,46,el Turó de la Peira,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+123,16,la Bordeta,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+124,27,el Putxet i el Farró,5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+125,32,el Camp d'en Grassot i Gràcia Nova,6,Gràcia,Barcelona,Barcelona,Cataluña,,,barri,gub
+126,70,el Besòs i el Maresme,10,Sant Martí,Barcelona,Barcelona,Cataluña,,,barri,gub
+127,47,Can Peguera,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+128,53,la Trinitat Nova,8,Nou Barris,Barcelona,Barcelona,Cataluña,,,barri,gub
+129,63,Navas,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+130,58,Baró de Viver,9,Sant Andreu,Barcelona,Barcelona,Cataluña,,,barri,gub
+131,15,Hostafrancs,3,Sants-Montjuïc,Barcelona,Barcelona,Cataluña,,,barri,gub
+132,39,Sant Genís dels Agudells,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+133,22,"Vallvidrera, el Tibidabo i les Planes",5,Sarrià-Sant Gervasi,Barcelona,Barcelona,Cataluña,,,barri,gub
+134,34,Can Baró,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+135,-1,Desconegut,-1,Desconegut,Barcelona,Barcelona,Cataluña,,,barri,gub
+136,42,la Clota,7,Horta-Guinardó,Barcelona,Barcelona,Cataluña,,,barri,gub
+137,,,,,,,Cataluña,,,ccaa,ministerio_ine
+138,,,,,,Barcelona,Cataluña,,,provincia,ministerio_ine
+139,,,,,,Girona,Cataluña,,,provincia,ministerio_ine
+140,,,,,,Lleida,Cataluña,,,provincia,ministerio_ine
+141,,,,,,Tarragona,Cataluña,,,provincia,ministerio_ine
